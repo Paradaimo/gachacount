@@ -1,0 +1,4361 @@
+{
+  "banners": [
+    {
+      "name": "Seele",
+      "cat": "character",
+      "start": "2023-04-26",
+      "end": "2023-05-17",
+      "startMs": 1682452800000,
+      "endMs": 1684281600000,
+      "version": "1.0.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "seele",
+          "label": "Seele"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "pela",
+          "label": "Pela"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Seele",
+      "cat": "character",
+      "start": "2023-10-27",
+      "end": "2023-11-15",
+      "startMs": 1698350400000,
+      "endMs": 1700006400000,
+      "version": "1.0.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "seele",
+          "label": "Seele"
+        },
+        {
+          "n": "topazandnumby",
+          "label": "Topaz and Numby"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Jing Yuan",
+      "cat": "character",
+      "start": "2023-05-17",
+      "end": "2023-06-07",
+      "startMs": 1684267200000,
+      "endMs": 1686096000000,
+      "version": "1.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "jingyuan",
+          "label": "Jing Yuan"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "march7thpreservation",
+          "label": "March 7th (Preservation)"
+        },
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Jing Yuan",
+      "cat": "character",
+      "start": "2024-02-29",
+      "end": "2024-03-27",
+      "startMs": 1709150400000,
+      "endMs": 1711497600000,
+      "version": "1.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "jingyuan",
+          "label": "Jing Yuan"
+        },
+        {
+          "n": "sparkle",
+          "label": "Sparkle"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "sampo",
+          "label": "Sampo"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Jing Yuan",
+      "cat": "character",
+      "start": "2024-12-04",
+      "end": "2024-12-25",
+      "startMs": 1733256000000,
+      "endMs": 1735084800000,
+      "version": "1.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "jingyuan",
+          "label": "Jing Yuan"
+        },
+        {
+          "n": "sunday",
+          "label": "Sunday"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "arlan",
+          "label": "Arlan"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Silver Wolf",
+      "cat": "character",
+      "start": "2023-06-07",
+      "end": "2023-06-28",
+      "startMs": 1686081600000,
+      "endMs": 1687910400000,
+      "version": "1.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "silverwolf",
+          "label": "Silver Wolf"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "danheng",
+          "label": "Dan Heng"
+        },
+        {
+          "n": "serval",
+          "label": "Serval"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Silver Wolf",
+      "cat": "character",
+      "start": "2023-12-06",
+      "end": "2023-12-27",
+      "startMs": 1701806400000,
+      "endMs": 1703635200000,
+      "version": "1.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "silverwolf",
+          "label": "Silver Wolf"
+        },
+        {
+          "n": "argenti",
+          "label": "Argenti"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Silver Wolf",
+      "cat": "character",
+      "start": "2025-02-05",
+      "end": "2025-02-26",
+      "startMs": 1738699200000,
+      "endMs": 1740528000000,
+      "version": "1.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "silverwolf",
+          "label": "Silver Wolf"
+        },
+        {
+          "n": "robin",
+          "label": "Robin"
+        },
+        {
+          "n": "boothill",
+          "label": "Boothill"
+        },
+        {
+          "n": "aglaea",
+          "label": "Aglaea"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Silver Wolf",
+      "cat": "character",
+      "start": "2025-09-02",
+      "end": "2025-09-24",
+      "startMs": 1756756800000,
+      "endMs": 1758672000000,
+      "version": "1.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "silverwolf",
+          "label": "Silver Wolf"
+        },
+        {
+          "n": "cerydra",
+          "label": "Cerydra"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "danheng",
+          "label": "Dan Heng"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "sampo",
+          "label": "Sampo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Luocha",
+      "cat": "character",
+      "start": "2023-06-28",
+      "end": "2023-07-19",
+      "startMs": 1687896000000,
+      "endMs": 1689724800000,
+      "version": "1.1.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "luocha",
+          "label": "Luocha"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "yukong",
+          "label": "Yukong"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Luocha",
+      "cat": "character",
+      "start": "2024-03-27",
+      "end": "2024-04-17",
+      "startMs": 1711483200000,
+      "endMs": 1713312000000,
+      "version": "1.1.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "luocha",
+          "label": "Luocha"
+        },
+        {
+          "n": "acheron",
+          "label": "Acheron"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "danheng",
+          "label": "Dan Heng"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Blade",
+      "cat": "character",
+      "start": "2023-07-19",
+      "end": "2023-08-09",
+      "startMs": 1689710400000,
+      "endMs": 1691539200000,
+      "version": "1.2.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "blade",
+          "label": "Blade"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "arlan",
+          "label": "Arlan"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Blade",
+      "cat": "character",
+      "start": "2023-12-27",
+      "end": "2024-01-17",
+      "startMs": 1703620800000,
+      "endMs": 1705449600000,
+      "version": "1.2.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "blade",
+          "label": "Blade"
+        },
+        {
+          "n": "ruanmei",
+          "label": "Ruan Mei"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "march7thpreservation",
+          "label": "March 7th (Preservation)"
+        },
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Blade",
+      "cat": "character",
+      "start": "2025-07-23",
+      "end": "2025-08-13",
+      "startMs": 1753214400000,
+      "endMs": 1755043200000,
+      "version": "1.2.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "blade",
+          "label": "Blade"
+        },
+        {
+          "n": "jingliu",
+          "label": "Jingliu"
+        },
+        {
+          "n": "firefly",
+          "label": "Firefly"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Kafka",
+      "cat": "character",
+      "start": "2023-08-09",
+      "end": "2023-08-30",
+      "startMs": 1691524800000,
+      "endMs": 1693353600000,
+      "version": "1.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "kafka",
+          "label": "Kafka"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "sampo",
+          "label": "Sampo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Kafka",
+      "cat": "character",
+      "start": "2024-01-17",
+      "end": "2024-02-06",
+      "startMs": 1705435200000,
+      "endMs": 1707177600000,
+      "version": "1.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "kafka",
+          "label": "Kafka"
+        },
+        {
+          "n": "drratio",
+          "label": "Dr. Ratio"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Kafka",
+      "cat": "character",
+      "start": "2024-09-10",
+      "end": "2024-10-02",
+      "startMs": 1725912000000,
+      "endMs": 1727827200000,
+      "version": "1.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "kafka",
+          "label": "Kafka"
+        },
+        {
+          "n": "blackswan",
+          "label": "Black Swan"
+        },
+        {
+          "n": "robin",
+          "label": "Robin"
+        },
+        {
+          "n": "feixiao",
+          "label": "Feixiao"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Kafka",
+      "cat": "character",
+      "start": "2025-08-13",
+      "end": "2025-09-02",
+      "startMs": 1755028800000,
+      "endMs": 1756771200000,
+      "version": "1.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "kafka",
+          "label": "Kafka"
+        },
+        {
+          "n": "hysilens",
+          "label": "Hysilens"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "arlan",
+          "label": "Arlan"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Dan Heng • Imbibitor Lunae",
+      "cat": "character",
+      "start": "2023-08-30",
+      "end": "2023-09-20",
+      "startMs": 1693339200000,
+      "endMs": 1695168000000,
+      "version": "1.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "danhengimbibitorlunae",
+          "label": "Dan Heng • Imbibitor Lunae"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "march7thpreservation",
+          "label": "March 7th (Preservation)"
+        },
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "yukong",
+          "label": "Yukong"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Dan Heng • Imbibitor Lunae",
+      "cat": "character",
+      "start": "2024-02-06",
+      "end": "2024-02-29",
+      "startMs": 1707163200000,
+      "endMs": 1709164800000,
+      "version": "1.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "danhengimbibitorlunae",
+          "label": "Dan Heng • Imbibitor Lunae"
+        },
+        {
+          "n": "blackswan",
+          "label": "Black Swan"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Dan Heng • Imbibitor Lunae",
+      "cat": "character",
+      "start": "2024-10-23",
+      "end": "2024-11-13",
+      "startMs": 1729627200000,
+      "endMs": 1731456000000,
+      "version": "1.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "danhengimbibitorlunae",
+          "label": "Dan Heng • Imbibitor Lunae"
+        },
+        {
+          "n": "rappa",
+          "label": "Rappa"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "yukong",
+          "label": "Yukong"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Fu Xuan",
+      "cat": "character",
+      "start": "2023-09-20",
+      "end": "2023-10-11",
+      "startMs": 1695153600000,
+      "endMs": 1696982400000,
+      "version": "1.3.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "fuxuan",
+          "label": "Fu Xuan"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Fu Xuan",
+      "cat": "character",
+      "start": "2024-05-29",
+      "end": "2024-06-19",
+      "startMs": 1716926400000,
+      "endMs": 1718755200000,
+      "version": "1.3.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "fuxuan",
+          "label": "Fu Xuan"
+        },
+        {
+          "n": "boothill",
+          "label": "Boothill"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Jingliu",
+      "cat": "character",
+      "start": "2023-10-11",
+      "end": "2023-10-27",
+      "startMs": 1696968000000,
+      "endMs": 1698364800000,
+      "version": "1.4.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "jingliu",
+          "label": "Jingliu"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "sampo",
+          "label": "Sampo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Jingliu",
+      "cat": "character",
+      "start": "2024-04-17",
+      "end": "2024-05-08",
+      "startMs": 1713297600000,
+      "endMs": 1715126400000,
+      "version": "1.4.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "jingliu",
+          "label": "Jingliu"
+        },
+        {
+          "n": "aventurine",
+          "label": "Aventurine"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Topaz and Numby",
+      "cat": "character",
+      "start": "2024-05-08",
+      "end": "2024-05-29",
+      "startMs": 1715112000000,
+      "endMs": 1716940800000,
+      "version": "1.4.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "topazandnumby",
+          "label": "Topaz and Numby"
+        },
+        {
+          "n": "robin",
+          "label": "Robin"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "march7thpreservation",
+          "label": "March 7th (Preservation)"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Topaz and Numby",
+      "cat": "character",
+      "start": "2024-10-02",
+      "end": "2024-10-23",
+      "startMs": 1727812800000,
+      "endMs": 1729641600000,
+      "version": "1.4.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "topazandnumby",
+          "label": "Topaz and Numby"
+        },
+        {
+          "n": "lingsha",
+          "label": "Lingsha"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Huohuo",
+      "cat": "character",
+      "start": "2023-11-15",
+      "end": "2023-12-06",
+      "startMs": 1699992000000,
+      "endMs": 1701820800000,
+      "version": "1.5.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "huohuo",
+          "label": "Huohuo"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "danheng",
+          "label": "Dan Heng"
+        },
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "arlan",
+          "label": "Arlan"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Huohuo",
+      "cat": "character",
+      "start": "2024-07-31",
+      "end": "2024-08-21",
+      "startMs": 1722369600000,
+      "endMs": 1724198400000,
+      "version": "1.5.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "huohuo",
+          "label": "Huohuo"
+        },
+        {
+          "n": "yunli",
+          "label": "Yunli"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "yukong",
+          "label": "Yukong"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Huohuo",
+      "cat": "character",
+      "start": "2025-03-19",
+      "end": "2025-04-09",
+      "startMs": 1742328000000,
+      "endMs": 1744156800000,
+      "version": "1.5.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "huohuo",
+          "label": "Huohuo"
+        },
+        {
+          "n": "mydei",
+          "label": "Mydei"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "arlan",
+          "label": "Arlan"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Argenti",
+      "cat": "character",
+      "start": "2024-07-10",
+      "end": "2024-07-31",
+      "startMs": 1720555200000,
+      "endMs": 1722384000000,
+      "version": "1.5.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "argenti",
+          "label": "Argenti"
+        },
+        {
+          "n": "jade",
+          "label": "Jade"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "serval",
+          "label": "Serval"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Ruan Mei",
+      "cat": "character",
+      "start": "2024-06-19",
+      "end": "2024-07-10",
+      "startMs": 1718740800000,
+      "endMs": 1720569600000,
+      "version": "1.6.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "ruanmei",
+          "label": "Ruan Mei"
+        },
+        {
+          "n": "firefly",
+          "label": "Firefly"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Dr. Ratio",
+      "cat": "character",
+      "start": "2025-04-30",
+      "end": "2025-05-21",
+      "startMs": 1745956800000,
+      "endMs": 1747785600000,
+      "version": "1.6.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "drratio",
+          "label": "Dr. Ratio"
+        },
+        {
+          "n": "anaxa",
+          "label": "Anaxa"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "danheng",
+          "label": "Dan Heng"
+        },
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Black Swan",
+      "cat": "character",
+      "start": "2026-02-13",
+      "end": "2026-03-03",
+      "startMs": 1770926400000,
+      "endMs": 1772496000000,
+      "version": "2.0.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "blackswan",
+          "label": "Black Swan"
+        },
+        {
+          "n": "hysilens",
+          "label": "Hysilens"
+        },
+        {
+          "n": "evernight",
+          "label": "Evernight"
+        },
+        {
+          "n": "yaoguang",
+          "label": "Yao Guang"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Sparkle",
+      "cat": "character",
+      "start": "2024-08-21",
+      "end": "2024-09-10",
+      "startMs": 1724184000000,
+      "endMs": 1725926400000,
+      "version": "2.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "sparkle",
+          "label": "Sparkle"
+        },
+        {
+          "n": "jiaoqiu",
+          "label": "Jiaoqiu"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "arlan",
+          "label": "Arlan"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Sparkle",
+      "cat": "character",
+      "start": "2025-07-02",
+      "end": "2025-07-11",
+      "startMs": 1751400000000,
+      "endMs": 1752192000000,
+      "version": "2.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "sparkle",
+          "label": "Sparkle"
+        },
+        {
+          "n": "sunday",
+          "label": "Sunday"
+        },
+        {
+          "n": "tribbie",
+          "label": "Tribbie"
+        },
+        {
+          "n": "phainon",
+          "label": "Phainon"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "march7thpreservation",
+          "label": "March 7th (Preservation)"
+        },
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "yukong",
+          "label": "Yukong"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Sparkle",
+      "cat": "character",
+      "start": "2026-03-03",
+      "end": "2026-03-25",
+      "startMs": 1772481600000,
+      "endMs": 1774396800000,
+      "version": "2.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "sparkle",
+          "label": "Sparkle"
+        },
+        {
+          "n": "rappa",
+          "label": "Rappa"
+        },
+        {
+          "n": "cerydra",
+          "label": "Cerydra"
+        },
+        {
+          "n": "sparxie",
+          "label": "Sparxie"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Acheron",
+      "cat": "character",
+      "start": "2025-04-09",
+      "end": "2025-04-30",
+      "startMs": 1744142400000,
+      "endMs": 1745971200000,
+      "version": "2.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "acheron",
+          "label": "Acheron"
+        },
+        {
+          "n": "jiaoqiu",
+          "label": "Jiaoqiu"
+        },
+        {
+          "n": "fugue",
+          "label": "Fugue"
+        },
+        {
+          "n": "castorice",
+          "label": "Castorice"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Aventurine",
+      "cat": "character",
+      "start": "2026-08-05",
+      "end": "2026-08-26",
+      "startMs": 1785873600000,
+      "endMs": 1787702400000,
+      "version": "2.1.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "aventurine",
+          "label": "Aventurine"
+        },
+        {
+          "n": "anaxa",
+          "label": "Anaxa"
+        },
+        {
+          "n": "cerydra",
+          "label": "Cerydra"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Boothill",
+      "cat": "character",
+      "start": "2026-04-08",
+      "end": "2026-04-22",
+      "startMs": 1775592000000,
+      "endMs": 1776816000000,
+      "version": "2.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "boothill",
+          "label": "Boothill"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Firefly",
+      "cat": "character",
+      "start": "2024-12-25",
+      "end": "2025-01-15",
+      "startMs": 1735070400000,
+      "endMs": 1736899200000,
+      "version": "2.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "firefly",
+          "label": "Firefly"
+        },
+        {
+          "n": "fugue",
+          "label": "Fugue"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "yukong",
+          "label": "Yukong"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Firefly",
+      "cat": "character",
+      "start": "2025-12-17",
+      "end": "2026-01-07",
+      "startMs": 1765915200000,
+      "endMs": 1767744000000,
+      "version": "2.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "firefly",
+          "label": "Firefly"
+        },
+        {
+          "n": "thedahlia",
+          "label": "The Dahlia"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "march7thpreservation",
+          "label": "March 7th (Preservation)"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Firefly",
+      "cat": "character",
+      "start": "2026-04-22",
+      "end": "2026-05-13",
+      "startMs": 1776801600000,
+      "endMs": 1778630400000,
+      "version": "2.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "firefly",
+          "label": "Firefly"
+        },
+        {
+          "n": "castorice",
+          "label": "Castorice"
+        },
+        {
+          "n": "thedahlia",
+          "label": "The Dahlia"
+        },
+        {
+          "n": "silverwolflv999",
+          "label": "Silver Wolf LV.999"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Jade",
+      "cat": "character",
+      "start": "2025-01-15",
+      "end": "2025-02-05",
+      "startMs": 1736884800000,
+      "endMs": 1738713600000,
+      "version": "2.3.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "jade",
+          "label": "Jade"
+        },
+        {
+          "n": "feixiao",
+          "label": "Feixiao"
+        },
+        {
+          "n": "lingsha",
+          "label": "Lingsha"
+        },
+        {
+          "n": "theherta",
+          "label": "The Herta"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Yunli",
+      "cat": "character",
+      "start": "2025-02-26",
+      "end": "2025-03-19",
+      "startMs": 1740513600000,
+      "endMs": 1742342400000,
+      "version": "2.4.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "yunli",
+          "label": "Yunli"
+        },
+        {
+          "n": "tribbie",
+          "label": "Tribbie"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Feixiao",
+      "cat": "character",
+      "start": "2026-05-13",
+      "end": "2026-06-01",
+      "startMs": 1778616000000,
+      "endMs": 1780272000000,
+      "version": "2.5.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "feixiao",
+          "label": "Feixiao"
+        },
+        {
+          "n": "sunday",
+          "label": "Sunday"
+        },
+        {
+          "n": "tribbie",
+          "label": "Tribbie"
+        },
+        {
+          "n": "evanescia",
+          "label": "Evanescia"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "The Herta",
+      "cat": "character",
+      "start": "2025-05-21",
+      "end": "2025-06-11",
+      "startMs": 1747771200000,
+      "endMs": 1749600000000,
+      "version": "3.0.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "theherta",
+          "label": "The Herta"
+        },
+        {
+          "n": "hyacine",
+          "label": "Hyacine"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "natasha",
+          "label": "Natasha"
+        },
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "The Herta",
+      "cat": "character",
+      "start": "2025-09-24",
+      "end": "2025-10-15",
+      "startMs": 1758657600000,
+      "endMs": 1760486400000,
+      "version": "3.0.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "theherta",
+          "label": "The Herta"
+        },
+        {
+          "n": "evernight",
+          "label": "Evernight"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Aglaea",
+      "cat": "character",
+      "start": "2025-06-11",
+      "end": "2025-07-02",
+      "startMs": 1749585600000,
+      "endMs": 1751414400000,
+      "version": "3.0.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "aglaea",
+          "label": "Aglaea"
+        },
+        {
+          "n": "cipher",
+          "label": "Cipher"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Tribbie",
+      "cat": "character",
+      "start": "2025-11-05",
+      "end": "2025-11-26",
+      "startMs": 1762286400000,
+      "endMs": 1764115200000,
+      "version": "3.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "tribbie",
+          "label": "Tribbie"
+        },
+        {
+          "n": "castorice",
+          "label": "Castorice"
+        },
+        {
+          "n": "hyacine",
+          "label": "Hyacine"
+        },
+        {
+          "n": "cyrene",
+          "label": "Cyrene"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Mydei",
+      "cat": "character",
+      "start": "2025-11-26",
+      "end": "2025-12-17",
+      "startMs": 1764100800000,
+      "endMs": 1765929600000,
+      "version": "3.1.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "mydei",
+          "label": "Mydei"
+        },
+        {
+          "n": "cipher",
+          "label": "Cipher"
+        },
+        {
+          "n": "phainon",
+          "label": "Phainon"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "pela",
+          "label": "Pela"
+        },
+        {
+          "n": "lynx",
+          "label": "Lynx"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Anaxa",
+      "cat": "character",
+      "start": "2025-10-15",
+      "end": "2025-11-05",
+      "startMs": 1760472000000,
+      "endMs": 1762300800000,
+      "version": "3.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "anaxa",
+          "label": "Anaxa"
+        },
+        {
+          "n": "danhengpermansorterrae",
+          "label": "Dan Heng • Permansor Terrae"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sushang",
+          "label": "Sushang"
+        },
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Hyacine",
+      "cat": "character",
+      "start": "2026-03-25",
+      "end": "2026-04-08",
+      "startMs": 1774382400000,
+      "endMs": 1775606400000,
+      "version": "3.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "hyacine",
+          "label": "Hyacine"
+        },
+        {
+          "n": "ashveil",
+          "label": "Ashveil"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asta",
+          "label": "Asta"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Hyacine",
+      "cat": "character",
+      "start": "2026-08-26",
+      "end": "2026-09-12",
+      "startMs": 1787688000000,
+      "endMs": 1789171200000,
+      "version": "3.3.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "hyacine",
+          "label": "Hyacine"
+        },
+        {
+          "n": "robinsummeretto",
+          "label": "Robin • Summeretto"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "danheng",
+          "label": "Dan Heng"
+        },
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "gallagher",
+          "label": "Gallagher"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Archer",
+      "cat": "character",
+      "start": "2025-07-11",
+      "end": "2025-07-23",
+      "startMs": 1752177600000,
+      "endMs": 1753228800000,
+      "version": "3.4.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "archer",
+          "label": "Archer"
+        },
+        {
+          "n": "saber",
+          "label": "Saber"
+        }
+      ],
+      "featuredRare": [],
+      "standard": false
+    },
+    {
+      "name": "Evernight",
+      "cat": "character",
+      "start": "2026-07-15",
+      "end": "2026-07-24",
+      "startMs": 1784059200000,
+      "endMs": 1784851200000,
+      "version": "3.6.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "evernight",
+          "label": "Evernight"
+        },
+        {
+          "n": "danhengpermansorterrae",
+          "label": "Dan Heng • Permansor Terrae"
+        },
+        {
+          "n": "sparxie",
+          "label": "Sparxie"
+        },
+        {
+          "n": "himekonova",
+          "label": "Himeko • Nova"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "serval",
+          "label": "Serval"
+        },
+        {
+          "n": "hanya",
+          "label": "Hanya"
+        },
+        {
+          "n": "moze",
+          "label": "Moze"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Yao Guang",
+      "cat": "character",
+      "start": "2026-06-01",
+      "end": "2026-06-24",
+      "startMs": 1780257600000,
+      "endMs": 1782259200000,
+      "version": "4.0.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "yaoguang",
+          "label": "Yao Guang"
+        },
+        {
+          "n": "mortenaxblade",
+          "label": "Mortenax Blade"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "tingyun",
+          "label": "Tingyun"
+        },
+        {
+          "n": "luka",
+          "label": "Luka"
+        },
+        {
+          "n": "sampo",
+          "label": "Sampo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Ashveil",
+      "cat": "character",
+      "start": "2026-09-12",
+      "end": "2026-09-28",
+      "startMs": 1789156800000,
+      "endMs": 1790553600000,
+      "version": "4.1.1",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "ashveil",
+          "label": "Ashveil"
+        },
+        {
+          "n": "aventurinewaveflair",
+          "label": "Aventurine • Waveflair"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "hook",
+          "label": "Hook"
+        },
+        {
+          "n": "sampo",
+          "label": "Sampo"
+        },
+        {
+          "n": "guinaifen",
+          "label": "Guinaifen"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Evanescia",
+      "cat": "character",
+      "start": "2026-09-28",
+      "end": "2026-10-21",
+      "startMs": 1790539200000,
+      "endMs": 1792540800000,
+      "version": "4.2.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "evanescia",
+          "label": "Evanescia"
+        },
+        {
+          "n": "pearl",
+          "label": "Pearl"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "qingque",
+          "label": "Qingque"
+        },
+        {
+          "n": "xueyi",
+          "label": "Xueyi"
+        },
+        {
+          "n": "misha",
+          "label": "Misha"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Gilgamesh",
+      "cat": "character",
+      "start": "2026-07-24",
+      "end": "2026-08-05",
+      "startMs": 1784836800000,
+      "endMs": 1785888000000,
+      "version": "4.4.2",
+      "color": "#a78bfa",
+      "featured": [
+        {
+          "n": "gilgamesh",
+          "label": "Gilgamesh"
+        },
+        {
+          "n": "rintohsaka",
+          "label": "Rin Tohsaka"
+        }
+      ],
+      "featuredRare": [],
+      "standard": false
+    },
+    {
+      "name": "In the Night",
+      "cat": "weapon",
+      "start": "2023-04-26",
+      "end": "2023-05-17",
+      "startMs": 1682452800000,
+      "endMs": 1684281600000,
+      "version": "1.0.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "inthenight",
+          "label": "In the Night"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "postopconversation",
+          "label": "Post-Op Conversation"
+        },
+        {
+          "n": "themoleswelcomeyou",
+          "label": "The Moles Welcome You"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "In the Night",
+      "cat": "weapon",
+      "start": "2023-10-27",
+      "end": "2023-11-15",
+      "startMs": 1698350400000,
+      "endMs": 1700006400000,
+      "version": "1.0.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "inthenight",
+          "label": "In the Night"
+        },
+        {
+          "n": "worrisomeblissful",
+          "label": "Worrisome, Blissful"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "themoleswelcomeyou",
+          "label": "The Moles Welcome You"
+        },
+        {
+          "n": "onlysilenceremains",
+          "label": "Only Silence Remains"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Before Dawn",
+      "cat": "weapon",
+      "start": "2023-05-17",
+      "end": "2023-06-07",
+      "startMs": 1684267200000,
+      "endMs": 1686096000000,
+      "version": "1.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "beforedawn",
+          "label": "Before Dawn"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dayoneofmynewlife",
+          "label": "Day One of My New Life"
+        },
+        {
+          "n": "onlysilenceremains",
+          "label": "Only Silence Remains"
+        },
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Before Dawn",
+      "cat": "weapon",
+      "start": "2024-02-29",
+      "end": "2024-03-27",
+      "startMs": 1709150400000,
+      "endMs": 1711497600000,
+      "version": "1.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "beforedawn",
+          "label": "Before Dawn"
+        },
+        {
+          "n": "earthlyescapade",
+          "label": "Earthly Escapade"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "geniusesrepose",
+          "label": "Geniuses' Repose"
+        },
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Before Dawn",
+      "cat": "weapon",
+      "start": "2024-12-04",
+      "end": "2024-12-25",
+      "startMs": 1733256000000,
+      "endMs": 1735084800000,
+      "version": "1.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "beforedawn",
+          "label": "Before Dawn"
+        },
+        {
+          "n": "agroundedascent",
+          "label": "A Grounded Ascent"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "swordplay",
+          "label": "Swordplay"
+        },
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        },
+        {
+          "n": "poisedtobloom",
+          "label": "Poised to Bloom"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Incessant Rain",
+      "cat": "weapon",
+      "start": "2023-06-07",
+      "end": "2023-06-28",
+      "startMs": 1686081600000,
+      "endMs": 1687910400000,
+      "version": "1.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "incessantrain",
+          "label": "Incessant Rain"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "maketheworldclamor",
+          "label": "Make the World Clamor"
+        },
+        {
+          "n": "memoriesofthepast",
+          "label": "Memories of the Past"
+        },
+        {
+          "n": "subscribeformore",
+          "label": "Subscribe for More!"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Incessant Rain",
+      "cat": "weapon",
+      "start": "2023-12-06",
+      "end": "2023-12-27",
+      "startMs": 1701806400000,
+      "endMs": 1703635200000,
+      "version": "1.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "incessantrain",
+          "label": "Incessant Rain"
+        },
+        {
+          "n": "aninstantbeforeagaze",
+          "label": "An Instant Before A Gaze"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "postopconversation",
+          "label": "Post-Op Conversation"
+        },
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        },
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Incessant Rain",
+      "cat": "weapon",
+      "start": "2025-02-05",
+      "end": "2025-02-26",
+      "startMs": 1738699200000,
+      "endMs": 1740528000000,
+      "version": "1.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "incessantrain",
+          "label": "Incessant Rain"
+        },
+        {
+          "n": "flowingnightglow",
+          "label": "Flowing Nightglow"
+        },
+        {
+          "n": "sailingtowardsasecondlife",
+          "label": "Sailing Towards a Second Life"
+        },
+        {
+          "n": "timewovenintogold",
+          "label": "Time Woven Into Gold"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "subscribeformore",
+          "label": "Subscribe for More!"
+        },
+        {
+          "n": "dancedancedance",
+          "label": "Dance! Dance! Dance!"
+        },
+        {
+          "n": "geniusesgreetings",
+          "label": "Geniuses' Greetings"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Incessant Rain",
+      "cat": "weapon",
+      "start": "2025-09-02",
+      "end": "2025-09-24",
+      "startMs": 1756756800000,
+      "endMs": 1758672000000,
+      "version": "1.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "incessantrain",
+          "label": "Incessant Rain"
+        },
+        {
+          "n": "epochetchedingoldenblood",
+          "label": "Epoch Etched in Golden Blood"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "swordplay",
+          "label": "Swordplay"
+        },
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Echoes of the Coffin",
+      "cat": "weapon",
+      "start": "2023-06-28",
+      "end": "2023-07-19",
+      "startMs": 1687896000000,
+      "endMs": 1689724800000,
+      "version": "1.1.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "echoesofthecoffin",
+          "label": "Echoes of the Coffin"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "dancedancedance",
+          "label": "Dance! Dance! Dance!"
+        },
+        {
+          "n": "geniusesrepose",
+          "label": "Geniuses' Repose"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Echoes of the Coffin",
+      "cat": "weapon",
+      "start": "2024-03-27",
+      "end": "2024-04-17",
+      "startMs": 1711483200000,
+      "endMs": 1713312000000,
+      "version": "1.1.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "echoesofthecoffin",
+          "label": "Echoes of the Coffin"
+        },
+        {
+          "n": "alongthepassingshore",
+          "label": "Along the Passing Shore"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "postopconversation",
+          "label": "Post-Op Conversation"
+        },
+        {
+          "n": "subscribeformore",
+          "label": "Subscribe for More!"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "The Unreachable Side",
+      "cat": "weapon",
+      "start": "2023-07-19",
+      "end": "2023-08-09",
+      "startMs": 1689710400000,
+      "endMs": 1691539200000,
+      "version": "1.2.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "theunreachableside",
+          "label": "The Unreachable Side"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asecretvow",
+          "label": "A Secret Vow"
+        },
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "swordplay",
+          "label": "Swordplay"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "The Unreachable Side",
+      "cat": "weapon",
+      "start": "2023-12-27",
+      "end": "2024-01-17",
+      "startMs": 1703620800000,
+      "endMs": 1705449600000,
+      "version": "1.2.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "theunreachableside",
+          "label": "The Unreachable Side"
+        },
+        {
+          "n": "pastselfinmirror",
+          "label": "Past Self in Mirror"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dayoneofmynewlife",
+          "label": "Day One of My New Life"
+        },
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "asecretvow",
+          "label": "A Secret Vow"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "The Unreachable Side",
+      "cat": "weapon",
+      "start": "2025-07-23",
+      "end": "2025-08-13",
+      "startMs": 1753214400000,
+      "endMs": 1755043200000,
+      "version": "1.2.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "theunreachableside",
+          "label": "The Unreachable Side"
+        },
+        {
+          "n": "ishallbemyownsword",
+          "label": "I Shall Be My Own Sword"
+        },
+        {
+          "n": "whereaboutsshoulddreamsrest",
+          "label": "Whereabouts Should Dreams Rest"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "subscribeformore",
+          "label": "Subscribe for More!"
+        },
+        {
+          "n": "asecretvow",
+          "label": "A Secret Vow"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Patience Is All You Need",
+      "cat": "weapon",
+      "start": "2023-08-09",
+      "end": "2023-08-30",
+      "startMs": 1691524800000,
+      "endMs": 1693353600000,
+      "version": "1.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "patienceisallyouneed",
+          "label": "Patience Is All You Need"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        },
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Patience Is All You Need",
+      "cat": "weapon",
+      "start": "2024-01-17",
+      "end": "2024-02-06",
+      "startMs": 1705435200000,
+      "endMs": 1707177600000,
+      "version": "1.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "patienceisallyouneed",
+          "label": "Patience Is All You Need"
+        },
+        {
+          "n": "baptismofpurethought",
+          "label": "Baptism of Pure Thought"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "onlysilenceremains",
+          "label": "Only Silence Remains"
+        },
+        {
+          "n": "landauschoice",
+          "label": "Landau's Choice"
+        },
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Patience Is All You Need",
+      "cat": "weapon",
+      "start": "2024-09-10",
+      "end": "2024-10-02",
+      "startMs": 1725912000000,
+      "endMs": 1727827200000,
+      "version": "1.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "patienceisallyouneed",
+          "label": "Patience Is All You Need"
+        },
+        {
+          "n": "reforgedremembrance",
+          "label": "Reforged Remembrance"
+        },
+        {
+          "n": "flowingnightglow",
+          "label": "Flowing Nightglow"
+        },
+        {
+          "n": "iventureforthtohunt",
+          "label": "I Venture Forth to Hunt"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "swordplay",
+          "label": "Swordplay"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        },
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Patience Is All You Need",
+      "cat": "weapon",
+      "start": "2025-08-13",
+      "end": "2025-09-02",
+      "startMs": 1755028800000,
+      "endMs": 1756771200000,
+      "version": "1.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "patienceisallyouneed",
+          "label": "Patience Is All You Need"
+        },
+        {
+          "n": "whydoestheoceansing",
+          "label": "Why Does the Ocean Sing"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        },
+        {
+          "n": "indeliblepromise",
+          "label": "Indelible Promise"
+        },
+        {
+          "n": "poisedtobloom",
+          "label": "Poised to Bloom"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Brighter Than the Sun",
+      "cat": "weapon",
+      "start": "2023-08-30",
+      "end": "2023-09-20",
+      "startMs": 1693339200000,
+      "endMs": 1695168000000,
+      "version": "1.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "brighterthanthesun",
+          "label": "Brighter Than the Sun"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "dancedancedance",
+          "label": "Dance! Dance! Dance!"
+        },
+        {
+          "n": "landauschoice",
+          "label": "Landau's Choice"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Brighter Than the Sun",
+      "cat": "weapon",
+      "start": "2024-02-06",
+      "end": "2024-02-29",
+      "startMs": 1707163200000,
+      "endMs": 1709164800000,
+      "version": "1.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "brighterthanthesun",
+          "label": "Brighter Than the Sun"
+        },
+        {
+          "n": "reforgedremembrance",
+          "label": "Reforged Remembrance"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dancedancedance",
+          "label": "Dance! Dance! Dance!"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        },
+        {
+          "n": "indeliblepromise",
+          "label": "Indelible Promise"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Brighter Than the Sun",
+      "cat": "weapon",
+      "start": "2024-10-23",
+      "end": "2024-11-13",
+      "startMs": 1729627200000,
+      "endMs": 1731456000000,
+      "version": "1.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "brighterthanthesun",
+          "label": "Brighter Than the Sun"
+        },
+        {
+          "n": "ninjutsuinscriptiondazzlingevilbreaker",
+          "label": "Ninjutsu Inscription: Dazzling Evilbreaker"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        },
+        {
+          "n": "afterthecharmonyfall",
+          "label": "After the Charmony Fall"
+        },
+        {
+          "n": "dreamsmontage",
+          "label": "Dream's Montage"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "She Already Shut Her Eyes",
+      "cat": "weapon",
+      "start": "2023-09-20",
+      "end": "2023-10-11",
+      "startMs": 1695153600000,
+      "endMs": 1696982400000,
+      "version": "1.3.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "shealreadyshuthereyes",
+          "label": "She Already Shut Her Eyes"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        },
+        {
+          "n": "trendoftheuniversalmarket",
+          "label": "Trend of the Universal Market"
+        },
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "She Already Shut Her Eyes",
+      "cat": "weapon",
+      "start": "2024-05-29",
+      "end": "2024-06-19",
+      "startMs": 1716926400000,
+      "endMs": 1718755200000,
+      "version": "1.3.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "shealreadyshuthereyes",
+          "label": "She Already Shut Her Eyes"
+        },
+        {
+          "n": "sailingtowardsasecondlife",
+          "label": "Sailing Towards a Second Life"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "geniusesrepose",
+          "label": "Geniuses' Repose"
+        },
+        {
+          "n": "asecretvow",
+          "label": "A Secret Vow"
+        },
+        {
+          "n": "landauschoice",
+          "label": "Landau's Choice"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "I Shall Be My Own Sword",
+      "cat": "weapon",
+      "start": "2023-10-11",
+      "end": "2023-10-27",
+      "startMs": 1696968000000,
+      "endMs": 1698364800000,
+      "version": "1.4.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "ishallbemyownsword",
+          "label": "I Shall Be My Own Sword"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "maketheworldclamor",
+          "label": "Make the World Clamor"
+        },
+        {
+          "n": "memoriesofthepast",
+          "label": "Memories of the Past"
+        },
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "I Shall Be My Own Sword",
+      "cat": "weapon",
+      "start": "2024-04-17",
+      "end": "2024-05-08",
+      "startMs": 1713297600000,
+      "endMs": 1715126400000,
+      "version": "1.4.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "ishallbemyownsword",
+          "label": "I Shall Be My Own Sword"
+        },
+        {
+          "n": "inherentlyunjustdestiny",
+          "label": "Inherently Unjust Destiny"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "maketheworldclamor",
+          "label": "Make the World Clamor"
+        },
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "concertfortwo",
+          "label": "Concert for Two"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Worrisome, Blissful",
+      "cat": "weapon",
+      "start": "2024-05-08",
+      "end": "2024-05-29",
+      "startMs": 1715112000000,
+      "endMs": 1716940800000,
+      "version": "1.4.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "worrisomeblissful",
+          "label": "Worrisome, Blissful"
+        },
+        {
+          "n": "flowingnightglow",
+          "label": "Flowing Nightglow"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "swordplay",
+          "label": "Swordplay"
+        },
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        },
+        {
+          "n": "boundlesschoreo",
+          "label": "Boundless Choreo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Worrisome, Blissful",
+      "cat": "weapon",
+      "start": "2024-10-02",
+      "end": "2024-10-23",
+      "startMs": 1727812800000,
+      "endMs": 1729641600000,
+      "version": "1.4.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "worrisomeblissful",
+          "label": "Worrisome, Blissful"
+        },
+        {
+          "n": "scentalonestaystrue",
+          "label": "Scent Alone Stays True"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "shadowedbynight",
+          "label": "Shadowed by Night"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Night of Fright",
+      "cat": "weapon",
+      "start": "2023-11-15",
+      "end": "2023-12-06",
+      "startMs": 1699992000000,
+      "endMs": 1701820800000,
+      "version": "1.5.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "nightoffright",
+          "label": "Night of Fright"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "subscribeformore",
+          "label": "Subscribe for More!"
+        },
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "trendoftheuniversalmarket",
+          "label": "Trend of the Universal Market"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Night of Fright",
+      "cat": "weapon",
+      "start": "2024-07-31",
+      "end": "2024-08-21",
+      "startMs": 1722369600000,
+      "endMs": 1724198400000,
+      "version": "1.5.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "nightoffright",
+          "label": "Night of Fright"
+        },
+        {
+          "n": "danceatsunset",
+          "label": "Dance at Sunset"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "themoleswelcomeyou",
+          "label": "The Moles Welcome You"
+        },
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        },
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Night of Fright",
+      "cat": "weapon",
+      "start": "2025-03-19",
+      "end": "2025-04-09",
+      "startMs": 1742328000000,
+      "endMs": 1744156800000,
+      "version": "1.5.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "nightoffright",
+          "label": "Night of Fright"
+        },
+        {
+          "n": "flameofbloodblazemypath",
+          "label": "Flame of Blood, Blaze My Path"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "memoriesofthepast",
+          "label": "Memories of the Past"
+        },
+        {
+          "n": "asecretvow",
+          "label": "A Secret Vow"
+        },
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "An Instant Before A Gaze",
+      "cat": "weapon",
+      "start": "2024-07-10",
+      "end": "2024-07-31",
+      "startMs": 1720555200000,
+      "endMs": 1722384000000,
+      "version": "1.5.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "aninstantbeforeagaze",
+          "label": "An Instant Before A Gaze"
+        },
+        {
+          "n": "yethopeispriceless",
+          "label": "Yet Hope Is Priceless"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "trendoftheuniversalmarket",
+          "label": "Trend of the Universal Market"
+        },
+        {
+          "n": "afterthecharmonyfall",
+          "label": "After the Charmony Fall"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Past Self in Mirror",
+      "cat": "weapon",
+      "start": "2024-06-19",
+      "end": "2024-07-10",
+      "startMs": 1718740800000,
+      "endMs": 1720569600000,
+      "version": "1.6.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "pastselfinmirror",
+          "label": "Past Self in Mirror"
+        },
+        {
+          "n": "whereaboutsshoulddreamsrest",
+          "label": "Whereabouts Should Dreams Rest"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dayoneofmynewlife",
+          "label": "Day One of My New Life"
+        },
+        {
+          "n": "memoriesofthepast",
+          "label": "Memories of the Past"
+        },
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Baptism of Pure Thought",
+      "cat": "weapon",
+      "start": "2025-04-30",
+      "end": "2025-05-21",
+      "startMs": 1745956800000,
+      "endMs": 1747785600000,
+      "version": "1.6.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "baptismofpurethought",
+          "label": "Baptism of Pure Thought"
+        },
+        {
+          "n": "lifeshouldbecasttoflames",
+          "label": "Life Should Be Cast to Flames"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "themoleswelcomeyou",
+          "label": "The Moles Welcome You"
+        },
+        {
+          "n": "trendoftheuniversalmarket",
+          "label": "Trend of the Universal Market"
+        },
+        {
+          "n": "afterthecharmonyfall",
+          "label": "After the Charmony Fall"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Reforged Remembrance",
+      "cat": "weapon",
+      "start": "2026-02-13",
+      "end": "2026-03-03",
+      "startMs": 1770926400000,
+      "endMs": 1772496000000,
+      "version": "2.0.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "reforgedremembrance",
+          "label": "Reforged Remembrance"
+        },
+        {
+          "n": "whydoestheoceansing",
+          "label": "Why Does the Ocean Sing"
+        },
+        {
+          "n": "toevernightsstars",
+          "label": "To Evernight's Stars"
+        },
+        {
+          "n": "whenshedecidedtosee",
+          "label": "When She Decided to See"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        },
+        {
+          "n": "thestorysnextpage",
+          "label": "The Story's Next Page"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Earthly Escapade",
+      "cat": "weapon",
+      "start": "2024-08-21",
+      "end": "2024-09-10",
+      "startMs": 1724184000000,
+      "endMs": 1725926400000,
+      "version": "2.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "earthlyescapade",
+          "label": "Earthly Escapade"
+        },
+        {
+          "n": "thosemanysprings",
+          "label": "Those Many Springs"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "asecretvow",
+          "label": "A Secret Vow"
+        },
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        },
+        {
+          "n": "poisedtobloom",
+          "label": "Poised to Bloom"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Earthly Escapade",
+      "cat": "weapon",
+      "start": "2025-07-02",
+      "end": "2025-07-11",
+      "startMs": 1751400000000,
+      "endMs": 1752192000000,
+      "version": "2.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "earthlyescapade",
+          "label": "Earthly Escapade"
+        },
+        {
+          "n": "agroundedascent",
+          "label": "A Grounded Ascent"
+        },
+        {
+          "n": "iftimewereaflower",
+          "label": "If Time Were a Flower"
+        },
+        {
+          "n": "thusburnsthedawn",
+          "label": "Thus Burns the Dawn"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        },
+        {
+          "n": "thestorysnextpage",
+          "label": "The Story's Next Page"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Earthly Escapade",
+      "cat": "weapon",
+      "start": "2026-03-03",
+      "end": "2026-03-25",
+      "startMs": 1772481600000,
+      "endMs": 1774396800000,
+      "version": "2.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "earthlyescapade",
+          "label": "Earthly Escapade"
+        },
+        {
+          "n": "ninjutsuinscriptiondazzlingevilbreaker",
+          "label": "Ninjutsu Inscription: Dazzling Evilbreaker"
+        },
+        {
+          "n": "epochetchedingoldenblood",
+          "label": "Epoch Etched in Golden Blood"
+        },
+        {
+          "n": "dazzledbyafloweryworld",
+          "label": "Dazzled by a Flowery World"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        },
+        {
+          "n": "thestorysnextpage",
+          "label": "The Story's Next Page"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Along the Passing Shore",
+      "cat": "weapon",
+      "start": "2025-04-09",
+      "end": "2025-04-30",
+      "startMs": 1744142400000,
+      "endMs": 1745971200000,
+      "version": "2.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "alongthepassingshore",
+          "label": "Along the Passing Shore"
+        },
+        {
+          "n": "thosemanysprings",
+          "label": "Those Many Springs"
+        },
+        {
+          "n": "longroadleadshome",
+          "label": "Long Road Leads Home"
+        },
+        {
+          "n": "makefarewellsmorebeautiful",
+          "label": "Make Farewells More Beautiful"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "postopconversation",
+          "label": "Post-Op Conversation"
+        },
+        {
+          "n": "boundlesschoreo",
+          "label": "Boundless Choreo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Inherently Unjust Destiny",
+      "cat": "weapon",
+      "start": "2026-08-05",
+      "end": "2026-08-26",
+      "startMs": 1785873600000,
+      "endMs": 1787702400000,
+      "version": "2.1.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "inherentlyunjustdestiny",
+          "label": "Inherently Unjust Destiny"
+        },
+        {
+          "n": "lifeshouldbecasttoflames",
+          "label": "Life Should Be Cast to Flames"
+        },
+        {
+          "n": "epochetchedingoldenblood",
+          "label": "Epoch Etched in Golden Blood"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        },
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        },
+        {
+          "n": "afterthecharmonyfall",
+          "label": "After the Charmony Fall"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Sailing Towards a Second Life",
+      "cat": "weapon",
+      "start": "2026-04-08",
+      "end": "2026-04-22",
+      "startMs": 1775592000000,
+      "endMs": 1776816000000,
+      "version": "2.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "sailingtowardsasecondlife",
+          "label": "Sailing Towards a Second Life"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "maketheworldclamor",
+          "label": "Make the World Clamor"
+        },
+        {
+          "n": "shadowedbynight",
+          "label": "Shadowed by Night"
+        },
+        {
+          "n": "dreamsmontage",
+          "label": "Dream's Montage"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Whereabouts Should Dreams Rest",
+      "cat": "weapon",
+      "start": "2024-12-25",
+      "end": "2025-01-15",
+      "startMs": 1735070400000,
+      "endMs": 1736899200000,
+      "version": "2.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "whereaboutsshoulddreamsrest",
+          "label": "Whereabouts Should Dreams Rest"
+        },
+        {
+          "n": "longroadleadshome",
+          "label": "Long Road Leads Home"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "resolutionshinesaspearlsofsweat",
+          "label": "Resolution Shines As Pearls of Sweat"
+        },
+        {
+          "n": "indeliblepromise",
+          "label": "Indelible Promise"
+        },
+        {
+          "n": "concertfortwo",
+          "label": "Concert for Two"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Whereabouts Should Dreams Rest",
+      "cat": "weapon",
+      "start": "2025-12-17",
+      "end": "2026-01-07",
+      "startMs": 1765915200000,
+      "endMs": 1767744000000,
+      "version": "2.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "whereaboutsshoulddreamsrest",
+          "label": "Whereabouts Should Dreams Rest"
+        },
+        {
+          "n": "neverforgetherflame",
+          "label": "Never Forget Her Flame"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "memoriesofthepast",
+          "label": "Memories of the Past"
+        },
+        {
+          "n": "concertfortwo",
+          "label": "Concert for Two"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Whereabouts Should Dreams Rest",
+      "cat": "weapon",
+      "start": "2026-04-22",
+      "end": "2026-05-13",
+      "startMs": 1776801600000,
+      "endMs": 1778630400000,
+      "version": "2.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "whereaboutsshoulddreamsrest",
+          "label": "Whereabouts Should Dreams Rest"
+        },
+        {
+          "n": "makefarewellsmorebeautiful",
+          "label": "Make Farewells More Beautiful"
+        },
+        {
+          "n": "neverforgetherflame",
+          "label": "Never Forget Her Flame"
+        },
+        {
+          "n": "welcometothecosmiccity",
+          "label": "Welcome to the Cosmic City"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        },
+        {
+          "n": "indeliblepromise",
+          "label": "Indelible Promise"
+        },
+        {
+          "n": "poisedtobloom",
+          "label": "Poised to Bloom"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Yet Hope Is Priceless",
+      "cat": "weapon",
+      "start": "2025-01-15",
+      "end": "2025-02-05",
+      "startMs": 1736884800000,
+      "endMs": 1738713600000,
+      "version": "2.3.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "yethopeispriceless",
+          "label": "Yet Hope Is Priceless"
+        },
+        {
+          "n": "iventureforthtohunt",
+          "label": "I Venture Forth to Hunt"
+        },
+        {
+          "n": "scentalonestaystrue",
+          "label": "Scent Alone Stays True"
+        },
+        {
+          "n": "intotheunreachableveil",
+          "label": "Into the Unreachable Veil"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "onlysilenceremains",
+          "label": "Only Silence Remains"
+        },
+        {
+          "n": "geniusesrepose",
+          "label": "Geniuses' Repose"
+        },
+        {
+          "n": "landauschoice",
+          "label": "Landau's Choice"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Dance at Sunset",
+      "cat": "weapon",
+      "start": "2025-02-26",
+      "end": "2025-03-19",
+      "startMs": 1740513600000,
+      "endMs": 1742342400000,
+      "version": "2.4.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "danceatsunset",
+          "label": "Dance at Sunset"
+        },
+        {
+          "n": "iftimewereaflower",
+          "label": "If Time Were a Flower"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "postopconversation",
+          "label": "Post-Op Conversation"
+        },
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "trendoftheuniversalmarket",
+          "label": "Trend of the Universal Market"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "I Venture Forth to Hunt",
+      "cat": "weapon",
+      "start": "2026-05-13",
+      "end": "2026-06-01",
+      "startMs": 1778616000000,
+      "endMs": 1780272000000,
+      "version": "2.5.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "iventureforthtohunt",
+          "label": "I Venture Forth to Hunt"
+        },
+        {
+          "n": "agroundedascent",
+          "label": "A Grounded Ascent"
+        },
+        {
+          "n": "iftimewereaflower",
+          "label": "If Time Were a Flower"
+        },
+        {
+          "n": "untiltheflowersbloomagain",
+          "label": "Until the Flowers Bloom Again"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "memoriesofthepast",
+          "label": "Memories of the Past"
+        },
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "swordplay",
+          "label": "Swordplay"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Into the Unreachable Veil",
+      "cat": "weapon",
+      "start": "2025-05-21",
+      "end": "2025-06-11",
+      "startMs": 1747771200000,
+      "endMs": 1749600000000,
+      "version": "3.0.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "intotheunreachableveil",
+          "label": "Into the Unreachable Veil"
+        },
+        {
+          "n": "longmayrainbowsadornthesky",
+          "label": "Long May Rainbows Adorn the Sky"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dayoneofmynewlife",
+          "label": "Day One of My New Life"
+        },
+        {
+          "n": "maketheworldclamor",
+          "label": "Make the World Clamor"
+        },
+        {
+          "n": "shadowedbynight",
+          "label": "Shadowed by Night"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Into the Unreachable Veil",
+      "cat": "weapon",
+      "start": "2025-09-24",
+      "end": "2025-10-15",
+      "startMs": 1758657600000,
+      "endMs": 1760486400000,
+      "version": "3.0.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "intotheunreachableveil",
+          "label": "Into the Unreachable Veil"
+        },
+        {
+          "n": "toevernightsstars",
+          "label": "To Evernight's Stars"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dancedancedance",
+          "label": "Dance! Dance! Dance!"
+        },
+        {
+          "n": "afterthecharmonyfall",
+          "label": "After the Charmony Fall"
+        },
+        {
+          "n": "dreamsmontage",
+          "label": "Dream's Montage"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Time Woven Into Gold",
+      "cat": "weapon",
+      "start": "2025-06-11",
+      "end": "2025-07-02",
+      "startMs": 1749585600000,
+      "endMs": 1751414400000,
+      "version": "3.0.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "timewovenintogold",
+          "label": "Time Woven Into Gold"
+        },
+        {
+          "n": "liesdanceonthebreeze",
+          "label": "Lies Dance on the Breeze"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "sharedfeeling",
+          "label": "Shared Feeling"
+        },
+        {
+          "n": "eyesoftheprey",
+          "label": "Eyes of the Prey"
+        },
+        {
+          "n": "geniusesgreetings",
+          "label": "Geniuses' Greetings"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "If Time Were a Flower",
+      "cat": "weapon",
+      "start": "2025-11-05",
+      "end": "2025-11-26",
+      "startMs": 1762286400000,
+      "endMs": 1764115200000,
+      "version": "3.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "iftimewereaflower",
+          "label": "If Time Were a Flower"
+        },
+        {
+          "n": "makefarewellsmorebeautiful",
+          "label": "Make Farewells More Beautiful"
+        },
+        {
+          "n": "longmayrainbowsadornthesky",
+          "label": "Long May Rainbows Adorn the Sky"
+        },
+        {
+          "n": "thisloveforever",
+          "label": "This Love, Forever"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "concertfortwo",
+          "label": "Concert for Two"
+        },
+        {
+          "n": "boundlesschoreo",
+          "label": "Boundless Choreo"
+        },
+        {
+          "n": "thestorysnextpage",
+          "label": "The Story's Next Page"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Flame of Blood, Blaze My Path",
+      "cat": "weapon",
+      "start": "2025-11-26",
+      "end": "2025-12-17",
+      "startMs": 1764100800000,
+      "endMs": 1765929600000,
+      "version": "3.1.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "flameofbloodblazemypath",
+          "label": "Flame of Blood, Blaze My Path"
+        },
+        {
+          "n": "liesdanceonthebreeze",
+          "label": "Lies Dance on the Breeze"
+        },
+        {
+          "n": "thusburnsthedawn",
+          "label": "Thus Burns the Dawn"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "concertfortwo",
+          "label": "Concert for Two"
+        },
+        {
+          "n": "boundlesschoreo",
+          "label": "Boundless Choreo"
+        },
+        {
+          "n": "thestorysnextpage",
+          "label": "The Story's Next Page"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Life Should Be Cast to Flames",
+      "cat": "weapon",
+      "start": "2025-10-15",
+      "end": "2025-11-05",
+      "startMs": 1760472000000,
+      "endMs": 1762300800000,
+      "version": "3.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "lifeshouldbecasttoflames",
+          "label": "Life Should Be Cast to Flames"
+        },
+        {
+          "n": "thoughworldsapart",
+          "label": "Though Worlds Apart"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "onlysilenceremains",
+          "label": "Only Silence Remains"
+        },
+        {
+          "n": "landauschoice",
+          "label": "Landau's Choice"
+        },
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Long May Rainbows Adorn the Sky",
+      "cat": "weapon",
+      "start": "2026-03-25",
+      "end": "2026-04-08",
+      "startMs": 1774382400000,
+      "endMs": 1775606400000,
+      "version": "3.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "longmayrainbowsadornthesky",
+          "label": "Long May Rainbows Adorn the Sky"
+        },
+        {
+          "n": "thefinaleofalie",
+          "label": "The Finale of a Lie"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "maketheworldclamor",
+          "label": "Make the World Clamor"
+        },
+        {
+          "n": "shadowedbynight",
+          "label": "Shadowed by Night"
+        },
+        {
+          "n": "dreamsmontage",
+          "label": "Dream's Montage"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Long May Rainbows Adorn the Sky",
+      "cat": "weapon",
+      "start": "2026-08-26",
+      "end": "2026-09-12",
+      "startMs": 1787688000000,
+      "endMs": 1789171200000,
+      "version": "3.3.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "longmayrainbowsadornthesky",
+          "label": "Long May Rainbows Adorn the Sky"
+        },
+        {
+          "n": "riseandsing",
+          "label": "Rise and Sing"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "dreamsmontage",
+          "label": "Dream's Montage"
+        },
+        {
+          "n": "geniusesgreetings",
+          "label": "Geniuses' Greetings"
+        },
+        {
+          "n": "alittlegetaway",
+          "label": "A Little Getaway"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "A Thankless Coronation",
+      "cat": "weapon",
+      "start": "2025-07-11",
+      "end": "2025-07-23",
+      "startMs": 1752177600000,
+      "endMs": 1753228800000,
+      "version": "3.4.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "athanklesscoronation",
+          "label": "A Thankless Coronation"
+        },
+        {
+          "n": "thehellwhereidealsburn",
+          "label": "The Hell Where Ideals Burn"
+        }
+      ],
+      "featuredRare": [],
+      "standard": false
+    },
+    {
+      "name": "To Evernight's Stars",
+      "cat": "weapon",
+      "start": "2026-07-15",
+      "end": "2026-07-24",
+      "startMs": 1784059200000,
+      "endMs": 1784851200000,
+      "version": "3.6.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "toevernightsstars",
+          "label": "To Evernight's Stars"
+        },
+        {
+          "n": "thoughworldsapart",
+          "label": "Though Worlds Apart"
+        },
+        {
+          "n": "dazzledbyafloweryworld",
+          "label": "Dazzled by a Flowery World"
+        },
+        {
+          "n": "astarthatlightsthenight",
+          "label": "A Star That Lights the Night"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "thebirthoftheself",
+          "label": "The Birth of the Self"
+        },
+        {
+          "n": "underthebluesky",
+          "label": "Under the Blue Sky"
+        },
+        {
+          "n": "afterthecharmonyfall",
+          "label": "After the Charmony Fall"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "When She Decided to See",
+      "cat": "weapon",
+      "start": "2026-06-01",
+      "end": "2026-06-24",
+      "startMs": 1780257600000,
+      "endMs": 1782259200000,
+      "version": "4.0.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "whenshedecidedtosee",
+          "label": "When She Decided to See"
+        },
+        {
+          "n": "reforgedinhellfire",
+          "label": "Reforged in Hellfire"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "goodnightandsleepwell",
+          "label": "Good Night and Sleep Well"
+        },
+        {
+          "n": "themoleswelcomeyou",
+          "label": "The Moles Welcome You"
+        },
+        {
+          "n": "dayoneofmynewlife",
+          "label": "Day One of My New Life"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "The Finale of a Lie",
+      "cat": "weapon",
+      "start": "2026-09-12",
+      "end": "2026-09-28",
+      "startMs": 1789156800000,
+      "endMs": 1790553600000,
+      "version": "4.1.1",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "thefinaleofalie",
+          "label": "The Finale of a Lie"
+        },
+        {
+          "n": "summerridesthesurf",
+          "label": "Summer Rides the Surf"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "onlysilenceremains",
+          "label": "Only Silence Remains"
+        },
+        {
+          "n": "perfecttiming",
+          "label": "Perfect Timing"
+        },
+        {
+          "n": "thestorysnextpage",
+          "label": "The Story's Next Page"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Until the Flowers Bloom Again",
+      "cat": "weapon",
+      "start": "2026-09-28",
+      "end": "2026-10-21",
+      "startMs": 1790539200000,
+      "endMs": 1792540800000,
+      "version": "4.2.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "untiltheflowersbloomagain",
+          "label": "Until the Flowers Bloom Again"
+        },
+        {
+          "n": "colorsfortomorrow",
+          "label": "Colors for Tomorrow"
+        }
+      ],
+      "featuredRare": [
+        {
+          "n": "postopconversation",
+          "label": "Post-Op Conversation"
+        },
+        {
+          "n": "planetaryrendezvous",
+          "label": "Planetary Rendezvous"
+        },
+        {
+          "n": "boundlesschoreo",
+          "label": "Boundless Choreo"
+        }
+      ],
+      "standard": false
+    },
+    {
+      "name": "Flickering Stars",
+      "cat": "weapon",
+      "start": "2026-07-24",
+      "end": "2026-08-05",
+      "startMs": 1784836800000,
+      "endMs": 1785888000000,
+      "version": "4.4.2",
+      "color": "#38bdf8",
+      "featured": [
+        {
+          "n": "flickeringstars",
+          "label": "Flickering Stars"
+        },
+        {
+          "n": "iamasyoubehold",
+          "label": "I Am As You Behold"
+        }
+      ],
+      "featuredRare": [],
+      "standard": false
+    }
+  ],
+  "standard": {
+    "chars": [
+      "march7th",
+      "danheng",
+      "welt",
+      "himeko",
+      "kafka",
+      "silverwolf",
+      "natasha",
+      "seele",
+      "jingyuan",
+      "sushang",
+      "blackswan",
+      "sparkle",
+      "acheron",
+      "aventurine",
+      "lynx",
+      "guinaifen",
+      "hanya",
+      "ruanmei",
+      "qingque",
+      "feixiao",
+      "lingsha",
+      "rappa",
+      "jade",
+      "robin",
+      "boothill",
+      "firefly",
+      "drratio"
+    ],
+    "weapons": [
+      "wutheringmoon",
+      "swordofeons",
+      "crimsonshiver",
+      "nightonboard",
+      "castingouttheevil",
+      "timekeepersshadowofday"
+    ]
+  },
+  "fourStar": {
+    "chars": [
+      "hook",
+      "natasha",
+      "pela",
+      "march7thpreservation",
+      "sushang",
+      "tingyun",
+      "asta",
+      "danheng",
+      "serval",
+      "qingque",
+      "yukong",
+      "arlan",
+      "luka",
+      "sampo",
+      "lynx",
+      "guinaifen",
+      "hanya",
+      "xueyi",
+      "misha",
+      "gallagher",
+      "moze"
+    ],
+    "weapons": [
+      "goodnightandsleepwell",
+      "postopconversation",
+      "themoleswelcomeyou",
+      "dayoneofmynewlife",
+      "onlysilenceremains",
+      "planetaryrendezvous",
+      "maketheworldclamor",
+      "memoriesofthepast",
+      "subscribeformore",
+      "dancedancedance",
+      "geniusesrepose",
+      "asecretvow",
+      "sharedfeeling",
+      "swordplay",
+      "eyesoftheprey",
+      "resolutionshinesaspearlsofsweat",
+      "thebirthoftheself",
+      "landauschoice",
+      "perfecttiming",
+      "trendoftheuniversalmarket",
+      "underthebluesky",
+      "indeliblepromise",
+      "concertfortwo",
+      "boundlesschoreo",
+      "afterthecharmonyfall",
+      "poisedtobloom",
+      "shadowedbynight",
+      "dreamsmontage",
+      "geniusesgreetings",
+      "thestorysnextpage",
+      "alittlegetaway"
+    ]
+  }
+}
