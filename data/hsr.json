@@ -1,7 +1,7 @@
 {
   "banners": [
     {
-      "name": "Seele",
+      "name": "Зеле",
       "cat": "character",
       "start": "2023-04-26",
       "end": "2023-05-17",
@@ -29,10 +29,11 @@
           "label": "Pela"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Seele"
     },
     {
-      "name": "Seele",
+      "name": "Зеле",
       "cat": "character",
       "start": "2023-10-27",
       "end": "2023-11-15",
@@ -64,10 +65,11 @@
           "label": "Guinaifen"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Seele"
     },
     {
-      "name": "Jing Yuan",
+      "name": "Цзин Юань",
       "cat": "character",
       "start": "2023-05-17",
       "end": "2023-06-07",
@@ -95,10 +97,11 @@
           "label": "Tingyun"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Jing Yuan"
     },
     {
-      "name": "Jing Yuan",
+      "name": "Цзин Юань",
       "cat": "character",
       "start": "2024-02-29",
       "end": "2024-03-27",
@@ -130,10 +133,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Jing Yuan"
     },
     {
-      "name": "Jing Yuan",
+      "name": "Цзин Юань",
       "cat": "character",
       "start": "2024-12-04",
       "end": "2024-12-25",
@@ -165,10 +169,11 @@
           "label": "Arlan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Jing Yuan"
     },
     {
-      "name": "Silver Wolf",
+      "name": "Серебряная Волчица",
       "cat": "character",
       "start": "2023-06-07",
       "end": "2023-06-28",
@@ -196,10 +201,11 @@
           "label": "Serval"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Silver Wolf"
     },
     {
-      "name": "Silver Wolf",
+      "name": "Серебряная Волчица",
       "cat": "character",
       "start": "2023-12-06",
       "end": "2023-12-27",
@@ -231,10 +237,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Silver Wolf"
     },
     {
-      "name": "Silver Wolf",
+      "name": "Серебряная Волчица",
       "cat": "character",
       "start": "2025-02-05",
       "end": "2025-02-26",
@@ -274,10 +281,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Silver Wolf"
     },
     {
-      "name": "Silver Wolf",
+      "name": "Серебряная Волчица",
       "cat": "character",
       "start": "2025-09-02",
       "end": "2025-09-24",
@@ -309,10 +317,11 @@
           "label": "Sampo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Silver Wolf"
     },
     {
-      "name": "Luocha",
+      "name": "Луоча",
       "cat": "character",
       "start": "2023-06-28",
       "end": "2023-07-19",
@@ -340,10 +349,11 @@
           "label": "Yukong"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Luocha"
     },
     {
-      "name": "Luocha",
+      "name": "Луоча",
       "cat": "character",
       "start": "2024-03-27",
       "end": "2024-04-17",
@@ -375,10 +385,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Luocha"
     },
     {
-      "name": "Blade",
+      "name": "Блейд",
       "cat": "character",
       "start": "2023-07-19",
       "end": "2023-08-09",
@@ -406,10 +417,11 @@
           "label": "Arlan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Blade"
     },
     {
-      "name": "Blade",
+      "name": "Блейд",
       "cat": "character",
       "start": "2023-12-27",
       "end": "2024-01-17",
@@ -441,10 +453,11 @@
           "label": "Xueyi"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Blade"
     },
     {
-      "name": "Blade",
+      "name": "Блейд",
       "cat": "character",
       "start": "2025-07-23",
       "end": "2025-08-13",
@@ -480,10 +493,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Blade"
     },
     {
-      "name": "Kafka",
+      "name": "Кафка",
       "cat": "character",
       "start": "2023-08-09",
       "end": "2023-08-30",
@@ -511,10 +525,11 @@
           "label": "Sampo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Kafka"
     },
     {
-      "name": "Kafka",
+      "name": "Кафка",
       "cat": "character",
       "start": "2024-01-17",
       "end": "2024-02-06",
@@ -546,10 +561,11 @@
           "label": "Sushang"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Kafka"
     },
     {
-      "name": "Kafka",
+      "name": "Кафка",
       "cat": "character",
       "start": "2024-09-10",
       "end": "2024-10-02",
@@ -589,10 +605,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Kafka"
     },
     {
-      "name": "Kafka",
+      "name": "Кафка",
       "cat": "character",
       "start": "2025-08-13",
       "end": "2025-09-02",
@@ -624,10 +641,11 @@
           "label": "Arlan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Kafka"
     },
     {
-      "name": "Dan Heng • Imbibitor Lunae",
+      "name": "Дан Хэн • Впитавший Луну",
       "cat": "character",
       "start": "2023-08-30",
       "end": "2023-09-20",
@@ -655,10 +673,11 @@
           "label": "Yukong"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dan Heng • Imbibitor Lunae"
     },
     {
-      "name": "Dan Heng • Imbibitor Lunae",
+      "name": "Дан Хэн • Впитавший Луну",
       "cat": "character",
       "start": "2024-02-06",
       "end": "2024-02-29",
@@ -690,10 +709,11 @@
           "label": "Misha"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dan Heng • Imbibitor Lunae"
     },
     {
-      "name": "Dan Heng • Imbibitor Lunae",
+      "name": "Дан Хэн • Впитавший Луну",
       "cat": "character",
       "start": "2024-10-23",
       "end": "2024-11-13",
@@ -725,10 +745,11 @@
           "label": "Xueyi"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dan Heng • Imbibitor Lunae"
     },
     {
-      "name": "Fu Xuan",
+      "name": "Фу Сюань",
       "cat": "character",
       "start": "2023-09-20",
       "end": "2023-10-11",
@@ -756,10 +777,11 @@
           "label": "Lynx"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Fu Xuan"
     },
     {
-      "name": "Fu Xuan",
+      "name": "Фу Сюань",
       "cat": "character",
       "start": "2024-05-29",
       "end": "2024-06-19",
@@ -791,10 +813,11 @@
           "label": "Luka"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Fu Xuan"
     },
     {
-      "name": "Jingliu",
+      "name": "Цзин Лию",
       "cat": "character",
       "start": "2023-10-11",
       "end": "2023-10-27",
@@ -822,10 +845,11 @@
           "label": "Sampo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Jingliu"
     },
     {
-      "name": "Jingliu",
+      "name": "Цзин Лию",
       "cat": "character",
       "start": "2024-04-17",
       "end": "2024-05-08",
@@ -857,10 +881,11 @@
           "label": "Lynx"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Jingliu"
     },
     {
-      "name": "Topaz and Numby",
+      "name": "Топаз и Намби",
       "cat": "character",
       "start": "2024-05-08",
       "end": "2024-05-29",
@@ -892,10 +917,11 @@
           "label": "Xueyi"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Topaz and Numby"
     },
     {
-      "name": "Topaz and Numby",
+      "name": "Топаз и Намби",
       "cat": "character",
       "start": "2024-10-02",
       "end": "2024-10-23",
@@ -927,10 +953,11 @@
           "label": "Misha"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Topaz and Numby"
     },
     {
-      "name": "Huohuo",
+      "name": "Хуохуо",
       "cat": "character",
       "start": "2023-11-15",
       "end": "2023-12-06",
@@ -958,10 +985,11 @@
           "label": "Arlan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Huohuo"
     },
     {
-      "name": "Huohuo",
+      "name": "Хуохуо",
       "cat": "character",
       "start": "2024-07-31",
       "end": "2024-08-21",
@@ -993,10 +1021,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Huohuo"
     },
     {
-      "name": "Huohuo",
+      "name": "Хуохуо",
       "cat": "character",
       "start": "2025-03-19",
       "end": "2025-04-09",
@@ -1028,10 +1057,11 @@
           "label": "Xueyi"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Huohuo"
     },
     {
-      "name": "Argenti",
+      "name": "Ардженти",
       "cat": "character",
       "start": "2024-07-10",
       "end": "2024-07-31",
@@ -1063,10 +1093,11 @@
           "label": "Serval"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Argenti"
     },
     {
-      "name": "Ruan Mei",
+      "name": "Руан Мэй",
       "cat": "character",
       "start": "2024-06-19",
       "end": "2024-07-10",
@@ -1098,10 +1129,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ruan Mei"
     },
     {
-      "name": "Dr. Ratio",
+      "name": "Доктор Рашо",
       "cat": "character",
       "start": "2025-04-30",
       "end": "2025-05-21",
@@ -1133,10 +1165,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dr. Ratio"
     },
     {
-      "name": "Black Swan",
+      "name": "Чёрный Лебедь",
       "cat": "character",
       "start": "2026-02-13",
       "end": "2026-03-03",
@@ -1176,10 +1209,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Black Swan"
     },
     {
-      "name": "Sparkle",
+      "name": "Спаркл",
       "cat": "character",
       "start": "2024-08-21",
       "end": "2024-09-10",
@@ -1211,10 +1245,11 @@
           "label": "Guinaifen"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sparkle"
     },
     {
-      "name": "Sparkle",
+      "name": "Спаркл",
       "cat": "character",
       "start": "2025-07-02",
       "end": "2025-07-11",
@@ -1254,10 +1289,11 @@
           "label": "Yukong"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sparkle"
     },
     {
-      "name": "Sparkle",
+      "name": "Спаркл",
       "cat": "character",
       "start": "2026-03-03",
       "end": "2026-03-25",
@@ -1297,10 +1333,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sparkle"
     },
     {
-      "name": "Acheron",
+      "name": "Ахерон",
       "cat": "character",
       "start": "2025-04-09",
       "end": "2025-04-30",
@@ -1340,10 +1377,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Acheron"
     },
     {
-      "name": "Aventurine",
+      "name": "Авентюрин",
       "cat": "character",
       "start": "2026-08-05",
       "end": "2026-08-26",
@@ -1379,10 +1417,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Aventurine"
     },
     {
-      "name": "Boothill",
+      "name": "Бутхилл",
       "cat": "character",
       "start": "2026-04-08",
       "end": "2026-04-22",
@@ -1410,10 +1449,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Boothill"
     },
     {
-      "name": "Firefly",
+      "name": "Светлячок",
       "cat": "character",
       "start": "2024-12-25",
       "end": "2025-01-15",
@@ -1445,10 +1485,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Firefly"
     },
     {
-      "name": "Firefly",
+      "name": "Светлячок",
       "cat": "character",
       "start": "2025-12-17",
       "end": "2026-01-07",
@@ -1480,10 +1521,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Firefly"
     },
     {
-      "name": "Firefly",
+      "name": "Светлячок",
       "cat": "character",
       "start": "2026-04-22",
       "end": "2026-05-13",
@@ -1523,10 +1565,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Firefly"
     },
     {
-      "name": "Jade",
+      "name": "Жаде",
       "cat": "character",
       "start": "2025-01-15",
       "end": "2025-02-05",
@@ -1566,10 +1609,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Jade"
     },
     {
-      "name": "Yunli",
+      "name": "Юнь Ли",
       "cat": "character",
       "start": "2025-02-26",
       "end": "2025-03-19",
@@ -1601,10 +1645,11 @@
           "label": "Guinaifen"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Yunli"
     },
     {
-      "name": "Feixiao",
+      "name": "Фэй Сяо",
       "cat": "character",
       "start": "2026-05-13",
       "end": "2026-06-01",
@@ -1644,10 +1689,11 @@
           "label": "Guinaifen"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Feixiao"
     },
     {
-      "name": "The Herta",
+      "name": "Херта",
       "cat": "character",
       "start": "2025-05-21",
       "end": "2025-06-11",
@@ -1679,10 +1725,11 @@
           "label": "Misha"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Herta"
     },
     {
-      "name": "The Herta",
+      "name": "Херта",
       "cat": "character",
       "start": "2025-09-24",
       "end": "2025-10-15",
@@ -1714,10 +1761,11 @@
           "label": "Misha"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Herta"
     },
     {
-      "name": "Aglaea",
+      "name": "Аглая",
       "cat": "character",
       "start": "2025-06-11",
       "end": "2025-07-02",
@@ -1749,10 +1797,11 @@
           "label": "Xueyi"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Aglaea"
     },
     {
-      "name": "Tribbie",
+      "name": "Трибби",
       "cat": "character",
       "start": "2025-11-05",
       "end": "2025-11-26",
@@ -1792,10 +1841,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Tribbie"
     },
     {
-      "name": "Mydei",
+      "name": "Майдей",
       "cat": "character",
       "start": "2025-11-26",
       "end": "2025-12-17",
@@ -1831,10 +1881,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Mydei"
     },
     {
-      "name": "Anaxa",
+      "name": "Анакса",
       "cat": "character",
       "start": "2025-10-15",
       "end": "2025-11-05",
@@ -1866,10 +1917,11 @@
           "label": "Hanya"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Anaxa"
     },
     {
-      "name": "Hyacine",
+      "name": "Гиацина",
       "cat": "character",
       "start": "2026-03-25",
       "end": "2026-04-08",
@@ -1901,10 +1953,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Hyacine"
     },
     {
-      "name": "Hyacine",
+      "name": "Гиацина",
       "cat": "character",
       "start": "2026-08-26",
       "end": "2026-09-12",
@@ -1936,10 +1989,11 @@
           "label": "Gallagher"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Hyacine"
     },
     {
-      "name": "Archer",
+      "name": "Арчер",
       "cat": "character",
       "start": "2025-07-11",
       "end": "2025-07-23",
@@ -1958,10 +2012,11 @@
         }
       ],
       "featuredRare": [],
-      "standard": false
+      "standard": false,
+      "nameEn": "Archer"
     },
     {
-      "name": "Evernight",
+      "name": "Эвеннайт",
       "cat": "character",
       "start": "2026-07-15",
       "end": "2026-07-24",
@@ -2001,10 +2056,11 @@
           "label": "Moze"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Evernight"
     },
     {
-      "name": "Yao Guang",
+      "name": "Яо Гуань",
       "cat": "character",
       "start": "2026-06-01",
       "end": "2026-06-24",
@@ -2036,10 +2092,11 @@
           "label": "Sampo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Yao Guang"
     },
     {
-      "name": "Ashveil",
+      "name": "Эшвил",
       "cat": "character",
       "start": "2026-09-12",
       "end": "2026-09-28",
@@ -2071,10 +2128,11 @@
           "label": "Guinaifen"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ashveil"
     },
     {
-      "name": "Evanescia",
+      "name": "Эванесия",
       "cat": "character",
       "start": "2026-09-28",
       "end": "2026-10-21",
@@ -2106,10 +2164,11 @@
           "label": "Misha"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Evanescia"
     },
     {
-      "name": "Gilgamesh",
+      "name": "Гильгамеш",
       "cat": "character",
       "start": "2026-07-24",
       "end": "2026-08-05",
@@ -2128,10 +2187,11 @@
         }
       ],
       "featuredRare": [],
-      "standard": false
+      "standard": false,
+      "nameEn": "Gilgamesh"
     },
     {
-      "name": "In the Night",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-04-26",
       "end": "2023-05-17",
@@ -2159,10 +2219,11 @@
           "label": "The Moles Welcome You"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "In the Night"
     },
     {
-      "name": "In the Night",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-10-27",
       "end": "2023-11-15",
@@ -2194,10 +2255,11 @@
           "label": "Resolution Shines As Pearls of Sweat"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "In the Night"
     },
     {
-      "name": "Before Dawn",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-05-17",
       "end": "2023-06-07",
@@ -2225,10 +2287,11 @@
           "label": "Planetary Rendezvous"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Before Dawn"
     },
     {
-      "name": "Before Dawn",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-02-29",
       "end": "2024-03-27",
@@ -2260,10 +2323,11 @@
           "label": "Under the Blue Sky"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Before Dawn"
     },
     {
-      "name": "Before Dawn",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-12-04",
       "end": "2024-12-25",
@@ -2295,10 +2359,11 @@
           "label": "Poised to Bloom"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Before Dawn"
     },
     {
-      "name": "Incessant Rain",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-06-07",
       "end": "2023-06-28",
@@ -2326,10 +2391,11 @@
           "label": "Subscribe for More!"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Incessant Rain"
     },
     {
-      "name": "Incessant Rain",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-12-06",
       "end": "2023-12-27",
@@ -2361,10 +2427,11 @@
           "label": "Under the Blue Sky"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Incessant Rain"
     },
     {
-      "name": "Incessant Rain",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-02-05",
       "end": "2025-02-26",
@@ -2404,10 +2471,11 @@
           "label": "Geniuses' Greetings"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Incessant Rain"
     },
     {
-      "name": "Incessant Rain",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-09-02",
       "end": "2025-09-24",
@@ -2439,10 +2507,11 @@
           "label": "The Birth of the Self"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Incessant Rain"
     },
     {
-      "name": "Echoes of the Coffin",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-06-28",
       "end": "2023-07-19",
@@ -2470,10 +2539,11 @@
           "label": "Geniuses' Repose"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Echoes of the Coffin"
     },
     {
-      "name": "Echoes of the Coffin",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-03-27",
       "end": "2024-04-17",
@@ -2505,10 +2575,11 @@
           "label": "Subscribe for More!"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Echoes of the Coffin"
     },
     {
-      "name": "The Unreachable Side",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-07-19",
       "end": "2023-08-09",
@@ -2536,10 +2607,11 @@
           "label": "Swordplay"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Unreachable Side"
     },
     {
-      "name": "The Unreachable Side",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-12-27",
       "end": "2024-01-17",
@@ -2571,10 +2643,11 @@
           "label": "A Secret Vow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Unreachable Side"
     },
     {
-      "name": "The Unreachable Side",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-07-23",
       "end": "2025-08-13",
@@ -2610,10 +2683,11 @@
           "label": "Resolution Shines As Pearls of Sweat"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Unreachable Side"
     },
     {
-      "name": "Patience Is All You Need",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-08-09",
       "end": "2023-08-30",
@@ -2641,10 +2715,11 @@
           "label": "The Birth of the Self"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Patience Is All You Need"
     },
     {
-      "name": "Patience Is All You Need",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-01-17",
       "end": "2024-02-06",
@@ -2676,10 +2751,11 @@
           "label": "Perfect Timing"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Patience Is All You Need"
     },
     {
-      "name": "Patience Is All You Need",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-09-10",
       "end": "2024-10-02",
@@ -2719,10 +2795,11 @@
           "label": "The Birth of the Self"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Patience Is All You Need"
     },
     {
-      "name": "Patience Is All You Need",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-08-13",
       "end": "2025-09-02",
@@ -2754,10 +2831,11 @@
           "label": "Poised to Bloom"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Patience Is All You Need"
     },
     {
-      "name": "Brighter Than the Sun",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-08-30",
       "end": "2023-09-20",
@@ -2785,10 +2863,11 @@
           "label": "Landau's Choice"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Brighter Than the Sun"
     },
     {
-      "name": "Brighter Than the Sun",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-02-06",
       "end": "2024-02-29",
@@ -2820,10 +2899,11 @@
           "label": "Indelible Promise"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Brighter Than the Sun"
     },
     {
-      "name": "Brighter Than the Sun",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-10-23",
       "end": "2024-11-13",
@@ -2855,10 +2935,11 @@
           "label": "Dream's Montage"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Brighter Than the Sun"
     },
     {
-      "name": "She Already Shut Her Eyes",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-09-20",
       "end": "2023-10-11",
@@ -2886,10 +2967,11 @@
           "label": "Under the Blue Sky"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "She Already Shut Her Eyes"
     },
     {
-      "name": "She Already Shut Her Eyes",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-05-29",
       "end": "2024-06-19",
@@ -2921,10 +3003,11 @@
           "label": "Landau's Choice"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "She Already Shut Her Eyes"
     },
     {
-      "name": "I Shall Be My Own Sword",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-10-11",
       "end": "2023-10-27",
@@ -2952,10 +3035,11 @@
           "label": "Eyes of the Prey"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "I Shall Be My Own Sword"
     },
     {
-      "name": "I Shall Be My Own Sword",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-04-17",
       "end": "2024-05-08",
@@ -2987,10 +3071,11 @@
           "label": "Concert for Two"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "I Shall Be My Own Sword"
     },
     {
-      "name": "Worrisome, Blissful",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-05-08",
       "end": "2024-05-29",
@@ -3022,10 +3107,11 @@
           "label": "Boundless Choreo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Worrisome, Blissful"
     },
     {
-      "name": "Worrisome, Blissful",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-10-02",
       "end": "2024-10-23",
@@ -3057,10 +3143,11 @@
           "label": "Shadowed by Night"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Worrisome, Blissful"
     },
     {
-      "name": "Night of Fright",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2023-11-15",
       "end": "2023-12-06",
@@ -3088,10 +3175,11 @@
           "label": "Trend of the Universal Market"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Night of Fright"
     },
     {
-      "name": "Night of Fright",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-07-31",
       "end": "2024-08-21",
@@ -3123,10 +3211,11 @@
           "label": "Perfect Timing"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Night of Fright"
     },
     {
-      "name": "Night of Fright",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-03-19",
       "end": "2025-04-09",
@@ -3158,10 +3247,11 @@
           "label": "Perfect Timing"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Night of Fright"
     },
     {
-      "name": "An Instant Before A Gaze",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-07-10",
       "end": "2024-07-31",
@@ -3193,10 +3283,11 @@
           "label": "After the Charmony Fall"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "An Instant Before A Gaze"
     },
     {
-      "name": "Past Self in Mirror",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-06-19",
       "end": "2024-07-10",
@@ -3228,10 +3319,11 @@
           "label": "Eyes of the Prey"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Past Self in Mirror"
     },
     {
-      "name": "Baptism of Pure Thought",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-04-30",
       "end": "2025-05-21",
@@ -3263,10 +3355,11 @@
           "label": "After the Charmony Fall"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Baptism of Pure Thought"
     },
     {
-      "name": "Reforged Remembrance",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-02-13",
       "end": "2026-03-03",
@@ -3306,10 +3399,11 @@
           "label": "The Story's Next Page"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Reforged Remembrance"
     },
     {
-      "name": "Earthly Escapade",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-08-21",
       "end": "2024-09-10",
@@ -3341,10 +3435,11 @@
           "label": "Poised to Bloom"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Earthly Escapade"
     },
     {
-      "name": "Earthly Escapade",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-07-02",
       "end": "2025-07-11",
@@ -3384,10 +3479,11 @@
           "label": "The Story's Next Page"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Earthly Escapade"
     },
     {
-      "name": "Earthly Escapade",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-03-03",
       "end": "2026-03-25",
@@ -3427,10 +3523,11 @@
           "label": "The Story's Next Page"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Earthly Escapade"
     },
     {
-      "name": "Along the Passing Shore",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-04-09",
       "end": "2025-04-30",
@@ -3470,10 +3567,11 @@
           "label": "Boundless Choreo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Along the Passing Shore"
     },
     {
-      "name": "Inherently Unjust Destiny",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-08-05",
       "end": "2026-08-26",
@@ -3509,10 +3607,11 @@
           "label": "After the Charmony Fall"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Inherently Unjust Destiny"
     },
     {
-      "name": "Sailing Towards a Second Life",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-04-08",
       "end": "2026-04-22",
@@ -3540,10 +3639,11 @@
           "label": "Dream's Montage"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sailing Towards a Second Life"
     },
     {
-      "name": "Whereabouts Should Dreams Rest",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2024-12-25",
       "end": "2025-01-15",
@@ -3575,10 +3675,11 @@
           "label": "Concert for Two"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Whereabouts Should Dreams Rest"
     },
     {
-      "name": "Whereabouts Should Dreams Rest",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-12-17",
       "end": "2026-01-07",
@@ -3610,10 +3711,11 @@
           "label": "Concert for Two"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Whereabouts Should Dreams Rest"
     },
     {
-      "name": "Whereabouts Should Dreams Rest",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-04-22",
       "end": "2026-05-13",
@@ -3653,10 +3755,11 @@
           "label": "Poised to Bloom"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Whereabouts Should Dreams Rest"
     },
     {
-      "name": "Yet Hope Is Priceless",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-01-15",
       "end": "2025-02-05",
@@ -3696,10 +3799,11 @@
           "label": "Landau's Choice"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Yet Hope Is Priceless"
     },
     {
-      "name": "Dance at Sunset",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-02-26",
       "end": "2025-03-19",
@@ -3731,10 +3835,11 @@
           "label": "Trend of the Universal Market"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dance at Sunset"
     },
     {
-      "name": "I Venture Forth to Hunt",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-05-13",
       "end": "2026-06-01",
@@ -3774,10 +3879,11 @@
           "label": "Swordplay"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "I Venture Forth to Hunt"
     },
     {
-      "name": "Into the Unreachable Veil",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-05-21",
       "end": "2025-06-11",
@@ -3809,10 +3915,11 @@
           "label": "Shadowed by Night"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Into the Unreachable Veil"
     },
     {
-      "name": "Into the Unreachable Veil",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-09-24",
       "end": "2025-10-15",
@@ -3844,10 +3951,11 @@
           "label": "Dream's Montage"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Into the Unreachable Veil"
     },
     {
-      "name": "Time Woven Into Gold",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-06-11",
       "end": "2025-07-02",
@@ -3879,10 +3987,11 @@
           "label": "Geniuses' Greetings"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Time Woven Into Gold"
     },
     {
-      "name": "If Time Were a Flower",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-11-05",
       "end": "2025-11-26",
@@ -3922,10 +4031,11 @@
           "label": "The Story's Next Page"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "If Time Were a Flower"
     },
     {
-      "name": "Flame of Blood, Blaze My Path",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-11-26",
       "end": "2025-12-17",
@@ -3961,10 +4071,11 @@
           "label": "The Story's Next Page"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Flame of Blood, Blaze My Path"
     },
     {
-      "name": "Life Should Be Cast to Flames",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-10-15",
       "end": "2025-11-05",
@@ -3996,10 +4107,11 @@
           "label": "Perfect Timing"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Life Should Be Cast to Flames"
     },
     {
-      "name": "Long May Rainbows Adorn the Sky",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-03-25",
       "end": "2026-04-08",
@@ -4031,10 +4143,11 @@
           "label": "Dream's Montage"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Long May Rainbows Adorn the Sky"
     },
     {
-      "name": "Long May Rainbows Adorn the Sky",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-08-26",
       "end": "2026-09-12",
@@ -4066,10 +4179,11 @@
           "label": "A Little Getaway"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Long May Rainbows Adorn the Sky"
     },
     {
-      "name": "A Thankless Coronation",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2025-07-11",
       "end": "2025-07-23",
@@ -4088,10 +4202,11 @@
         }
       ],
       "featuredRare": [],
-      "standard": false
+      "standard": false,
+      "nameEn": "A Thankless Coronation"
     },
     {
-      "name": "To Evernight's Stars",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-07-15",
       "end": "2026-07-24",
@@ -4131,10 +4246,11 @@
           "label": "After the Charmony Fall"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "To Evernight's Stars"
     },
     {
-      "name": "When She Decided to See",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-06-01",
       "end": "2026-06-24",
@@ -4166,10 +4282,11 @@
           "label": "Day One of My New Life"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "When She Decided to See"
     },
     {
-      "name": "The Finale of a Lie",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-09-12",
       "end": "2026-09-28",
@@ -4201,10 +4318,11 @@
           "label": "The Story's Next Page"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Finale of a Lie"
     },
     {
-      "name": "Until the Flowers Bloom Again",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-09-28",
       "end": "2026-10-21",
@@ -4236,10 +4354,11 @@
           "label": "Boundless Choreo"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Until the Flowers Bloom Again"
     },
     {
-      "name": "Flickering Stars",
+      "name": "Световые конусы",
       "cat": "weapon",
       "start": "2026-07-24",
       "end": "2026-08-05",
@@ -4258,7 +4377,8 @@
         }
       ],
       "featuredRare": [],
-      "standard": false
+      "standard": false,
+      "nameEn": "Flickering Stars"
     }
   ],
   "standard": {

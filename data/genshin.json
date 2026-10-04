@@ -1,7 +1,7 @@
 {
   "banners": [
     {
-      "name": "Wanderlust Invocation",
+      "name": "Зов скитальца",
       "cat": "character",
       "start": "2000-01-01",
       "end": "2200-01-01",
@@ -11,10 +11,11 @@
       "color": "#FFFFFF",
       "featured": [],
       "featuredRare": [],
-      "standard": true
+      "standard": true,
+      "nameEn": "Wanderlust Invocation"
     },
     {
-      "name": "Ballad in Goblets",
+      "name": "Венти",
       "cat": "character",
       "start": "2020-09-28",
       "end": "2020-10-18",
@@ -42,10 +43,11 @@
           "label": "xiangling"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ballad in Goblets"
     },
     {
-      "name": "Sparkling Steps",
+      "name": "Кли",
       "cat": "character",
       "start": "2020-10-20",
       "end": "2020-11-10",
@@ -73,10 +75,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sparkling Steps"
     },
     {
-      "name": "Farewell of Snezhnaya",
+      "name": "Чайлда",
       "cat": "character",
       "start": "2020-11-11",
       "end": "2020-12-01",
@@ -104,10 +107,11 @@
           "label": "diona"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Farewell of Snezhnaya"
     },
     {
-      "name": "Gentry of Hermitage",
+      "name": "Чжун Ли",
       "cat": "character",
       "start": "2020-12-01",
       "end": "2020-12-22",
@@ -135,10 +139,11 @@
           "label": "chongyun"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Gentry of Hermitage"
     },
     {
-      "name": "Secretum Secretorum",
+      "name": "Альбедо",
       "cat": "character",
       "start": "2020-12-23",
       "end": "2021-01-12",
@@ -166,10 +171,11 @@
           "label": "sucrose"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Secretum Secretorum"
     },
     {
-      "name": "Adrift in the Harbor",
+      "name": "Гань Ю",
       "cat": "character",
       "start": "2021-01-12",
       "end": "2021-02-02",
@@ -197,10 +203,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Adrift in the Harbor"
     },
     {
-      "name": "Invitation to Mundane Life",
+      "name": "Сяо",
       "cat": "character",
       "start": "2021-02-03",
       "end": "2021-02-17",
@@ -228,10 +235,11 @@
           "label": "beidou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Invitation to Mundane Life"
     },
     {
-      "name": "Dance of Lanterns",
+      "name": "Цэ Линь",
       "cat": "character",
       "start": "2021-02-17",
       "end": "2021-03-02",
@@ -259,10 +267,11 @@
           "label": "ningguang"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dance of Lanterns"
     },
     {
-      "name": "Moment of Bloom",
+      "name": "Ху Тао",
       "cat": "character",
       "start": "2021-03-02",
       "end": "2021-03-16",
@@ -290,10 +299,11 @@
           "label": "chongyun"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Moment of Bloom"
     },
     {
-      "name": "Ballad in Goblets",
+      "name": "Венти",
       "cat": "character",
       "start": "2021-03-17",
       "end": "2021-04-06",
@@ -321,10 +331,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ballad in Goblets"
     },
     {
-      "name": "Farewell of Snezhnaya",
+      "name": "Чайлда",
       "cat": "character",
       "start": "2021-04-06",
       "end": "2021-04-27",
@@ -352,10 +363,11 @@
           "label": "barbara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Farewell of Snezhnaya"
     },
     {
-      "name": "Gentry of Hermitage",
+      "name": "Чжун Ли",
       "cat": "character",
       "start": "2021-04-28",
       "end": "2021-05-18",
@@ -383,10 +395,11 @@
           "label": "diona"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Gentry of Hermitage"
     },
     {
-      "name": "Born of Ocean Swell",
+      "name": "Эула",
       "cat": "character",
       "start": "2021-05-18",
       "end": "2021-06-08",
@@ -414,10 +427,11 @@
           "label": "xinyan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Born of Ocean Swell"
     },
     {
-      "name": "Sparkling Steps",
+      "name": "Кли",
       "cat": "character",
       "start": "2021-06-09",
       "end": "2021-06-29",
@@ -445,10 +459,11 @@
           "label": "barbara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sparkling Steps"
     },
     {
-      "name": "Leaves in the Wind",
+      "name": "Каэдэхара Казаха",
       "cat": "character",
       "start": "2021-06-29",
       "end": "2021-07-20",
@@ -476,10 +491,11 @@
           "label": "rosaria"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Leaves in the Wind"
     },
     {
-      "name": "The Herons Court",
+      "name": "Камисато Аяка",
       "cat": "character",
       "start": "2021-07-21",
       "end": "2021-08-10",
@@ -507,10 +523,11 @@
           "label": "yanfei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Herons Court"
     },
     {
-      "name": "Tapestry of Golden Flames",
+      "name": "Йоимья",
       "cat": "character",
       "start": "2021-08-10",
       "end": "2021-08-31",
@@ -538,10 +555,11 @@
           "label": "xinyan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Tapestry of Golden Flames"
     },
     {
-      "name": "Reign of Serenity",
+      "name": "Райдэн Сёгун",
       "cat": "character",
       "start": "2021-09-01",
       "end": "2021-09-21",
@@ -569,10 +587,11 @@
           "label": "kujou sara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Reign of Serenity"
     },
     {
-      "name": "Drifting Luminescence",
+      "name": "Сангомиё Кокоми",
       "cat": "character",
       "start": "2021-09-21",
       "end": "2021-10-12",
@@ -600,10 +619,11 @@
           "label": "xingqiu"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Drifting Luminescence"
     },
     {
-      "name": "Farewell of Snezhnaya",
+      "name": "Чайлда",
       "cat": "character",
       "start": "2021-10-13",
       "end": "2021-11-02",
@@ -631,10 +651,11 @@
           "label": "yanfei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Farewell of Snezhnaya"
     },
     {
-      "name": "Moment of Bloom",
+      "name": "Ху Тао",
       "cat": "character",
       "start": "2021-11-02",
       "end": "2021-11-23",
@@ -662,10 +683,11 @@
           "label": "sayu"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Moment of Bloom"
     },
     {
-      "name": "Secretum Secretorum",
+      "name": "Альбедо и Эула",
       "cat": "character",
       "start": "2021-11-24",
       "end": "2021-12-14",
@@ -697,10 +719,11 @@
           "label": "bennett"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Secretum Secretorum"
     },
     {
-      "name": "Oni's Royale",
+      "name": "Аратаки Ито",
       "cat": "character",
       "start": "2021-12-14",
       "end": "2022-01-04",
@@ -728,10 +751,11 @@
           "label": "barbara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Oni's Royale"
     },
     {
-      "name": "The Transcendent One Returns",
+      "name": "Шэнь Хэ и Сяо",
       "cat": "character",
       "start": "2022-01-05",
       "end": "2022-01-25",
@@ -763,10 +787,11 @@
           "label": "chongyun"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Transcendent One Returns"
     },
     {
-      "name": "Gentry of Hermitage",
+      "name": "Чжун Ли и Гань Ю",
       "cat": "character",
       "start": "2022-01-25",
       "end": "2022-02-15",
@@ -798,10 +823,11 @@
           "label": "yanfei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Gentry of Hermitage"
     },
     {
-      "name": "Everbloom Violet",
+      "name": "Яэ Мико",
       "cat": "character",
       "start": "2022-02-16",
       "end": "2022-03-08",
@@ -829,10 +855,11 @@
           "label": "fischl"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Everbloom Violet"
     },
     {
-      "name": "Reign of Serenity",
+      "name": "Райдэн Сёгун и Сангомиё Кокоми",
       "cat": "character",
       "start": "2022-03-08",
       "end": "2022-03-29",
@@ -864,10 +891,11 @@
           "label": "kujou sara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Reign of Serenity"
     },
     {
-      "name": "Azure Excursion",
+      "name": "Камисато Аято и Венти",
       "cat": "character",
       "start": "2022-03-30",
       "end": "2022-04-19",
@@ -899,10 +927,11 @@
           "label": "sucrose"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Azure Excursion"
     },
     {
-      "name": "The Herons Court",
+      "name": "Камисато Аяка",
       "cat": "character",
       "start": "2022-04-19",
       "end": "2022-05-31",
@@ -930,10 +959,11 @@
           "label": "rosaria"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Herons Court"
     },
     {
-      "name": "Discerner of Enigmas",
+      "name": "Елань и Сяо",
       "cat": "character",
       "start": "2022-05-31",
       "end": "2022-06-21",
@@ -965,10 +995,11 @@
           "label": "yanfei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Discerner of Enigmas"
     },
     {
-      "name": "Oni's Royale",
+      "name": "Аратаки Ито",
       "cat": "character",
       "start": "2022-06-21",
       "end": "2022-07-12",
@@ -996,10 +1027,11 @@
           "label": "kuki shinobu"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Oni's Royale"
     },
     {
-      "name": "Leaves in the Wind",
+      "name": "Каэдэхара Казаха и Кли",
       "cat": "character",
       "start": "2022-07-13",
       "end": "2022-08-02",
@@ -1031,10 +1063,11 @@
           "label": "shikanoin heizou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Leaves in the Wind"
     },
     {
-      "name": "Tapestry of Golden Flames",
+      "name": "Йоимья",
       "cat": "character",
       "start": "2022-08-02",
       "end": "2022-08-23",
@@ -1062,10 +1095,11 @@
           "label": "bennett"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Tapestry of Golden Flames"
     },
     {
-      "name": "Viridescent Vigil",
+      "name": "Тигнари и Чжун Ли",
       "cat": "character",
       "start": "2022-08-24",
       "end": "2022-09-09",
@@ -1097,10 +1131,11 @@
           "label": "diona"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Viridescent Vigil"
     },
     {
-      "name": "Adrift in the Harbor",
+      "name": "Гань Ю и Сангомиё Кокоми",
       "cat": "character",
       "start": "2022-09-09",
       "end": "2022-09-27",
@@ -1132,10 +1167,11 @@
           "label": "dori"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Adrift in the Harbor"
     },
     {
-      "name": "Twilight Arbiter",
+      "name": "Сино и Венти",
       "cat": "character",
       "start": "2022-09-28",
       "end": "2022-10-14",
@@ -1167,10 +1203,11 @@
           "label": "kuki shinobu"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Twilight Arbiter"
     },
     {
-      "name": "Twirling Lotus",
+      "name": "Ни Лоу и Альбедо",
       "cat": "character",
       "start": "2022-10-14",
       "end": "2022-11-01",
@@ -1202,10 +1239,11 @@
           "label": "beidou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Twirling Lotus"
     },
     {
-      "name": "The Moongrass' Enlightenment",
+      "name": "Нахида и Йоимья",
       "cat": "character",
       "start": "2022-11-02",
       "end": "2022-11-18",
@@ -1237,10 +1275,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Moongrass' Enlightenment"
     },
     {
-      "name": "Everbloom Violet",
+      "name": "Яэ Мико и Чайлда",
       "cat": "character",
       "start": "2022-11-18",
       "end": "2022-12-06",
@@ -1272,10 +1311,11 @@
           "label": "layla"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Everbloom Violet"
     },
     {
-      "name": "From Ashes Reborn",
+      "name": "Странник и Аратаки Ито",
       "cat": "character",
       "start": "2022-12-07",
       "end": "2022-12-27",
@@ -1307,10 +1347,11 @@
           "label": "gorou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "From Ashes Reborn"
     },
     {
-      "name": "Reign of Serenity",
+      "name": "Райдэн Сёгун и Камисато Аято",
       "cat": "character",
       "start": "2022-12-27",
       "end": "2023-01-17",
@@ -1342,10 +1383,11 @@
           "label": "kujou sara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Reign of Serenity"
     },
     {
-      "name": "Caution in Confidence",
+      "name": "Альхайтам и Сяо",
       "cat": "character",
       "start": "2023-01-18",
       "end": "2023-02-07",
@@ -1377,10 +1419,11 @@
           "label": "yaoyao"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Caution in Confidence"
     },
     {
-      "name": "Moment of Bloom",
+      "name": "Ху Тао и Елань",
       "cat": "character",
       "start": "2023-02-07",
       "end": "2023-02-28",
@@ -1412,10 +1455,11 @@
           "label": "xingqiu"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Moment of Bloom"
     },
     {
-      "name": "Auric Blaze",
+      "name": "Деяха и Сино",
       "cat": "character",
       "start": "2023-03-01",
       "end": "2023-03-21",
@@ -1447,10 +1491,11 @@
           "label": "barbara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Auric Blaze"
     },
     {
-      "name": "The Transcendent One Returns",
+      "name": "Шэнь Хэ и Камисато Аяка",
       "cat": "character",
       "start": "2023-03-21",
       "end": "2023-04-11",
@@ -1482,10 +1527,11 @@
           "label": "mika"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Transcendent One Returns"
     },
     {
-      "name": "The Moongrass' Enlightenment",
+      "name": "Нахида и Ни Лоу",
       "cat": "character",
       "start": "2023-04-12",
       "end": "2023-05-02",
@@ -1517,10 +1563,11 @@
           "label": "layla"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Moongrass' Enlightenment"
     },
     {
-      "name": "Immaculate Pulse",
+      "name": "Бай Чжу и Гань Ю",
       "cat": "character",
       "start": "2023-05-02",
       "end": "2023-05-23",
@@ -1552,10 +1599,11 @@
           "label": "fischl"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Immaculate Pulse"
     },
     {
-      "name": "Tapestry of Golden Flames",
+      "name": "Йоимья и Яэ Мико",
       "cat": "character",
       "start": "2023-05-24",
       "end": "2023-06-13",
@@ -1587,10 +1635,11 @@
           "label": "chongyun"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Tapestry of Golden Flames"
     },
     {
-      "name": "Caution in Confidence",
+      "name": "Альхайтам и Каэдэхара Казаха",
       "cat": "character",
       "start": "2023-06-13",
       "end": "2023-07-04",
@@ -1622,10 +1671,11 @@
           "label": "xiangling"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Caution in Confidence"
     },
     {
-      "name": "Born of Ocean Swell",
+      "name": "Эула и Кли",
       "cat": "character",
       "start": "2023-07-05",
       "end": "2023-07-25",
@@ -1657,10 +1707,11 @@
           "label": "thoma"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Born of Ocean Swell"
     },
     {
-      "name": "Drifting Luminescence",
+      "name": "Сангомиё Кокоми и Странник",
       "cat": "character",
       "start": "2023-07-25",
       "end": "2023-08-15",
@@ -1692,10 +1743,11 @@
           "label": "rosaria"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Drifting Luminescence"
     },
     {
-      "name": "Conjuring Chiaroscuro",
+      "name": "Линей и Елань",
       "cat": "character",
       "start": "2023-08-16",
       "end": "2023-09-05",
@@ -1727,10 +1779,11 @@
           "label": "lynette"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Conjuring Chiaroscuro"
     },
     {
-      "name": "Gentry of Hermitage",
+      "name": "Чайлда и Чжун Ли",
       "cat": "character",
       "start": "2023-09-05",
       "end": "2023-09-26",
@@ -1762,10 +1815,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Gentry of Hermitage"
     },
     {
-      "name": "Decree of the Deeps",
+      "name": "Невильвет и Ху Тао",
       "cat": "character",
       "start": "2023-09-27",
       "end": "2023-10-17",
@@ -1797,10 +1851,11 @@
           "label": "diona"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Decree of the Deeps"
     },
     {
-      "name": "Tempestuous Destiny",
+      "name": "Уайотслей и Венти",
       "cat": "character",
       "start": "2023-10-17",
       "end": "2023-11-07",
@@ -1832,10 +1887,11 @@
           "label": "dori"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Tempestuous Destiny"
     },
     {
-      "name": "Chanson of Many Waters",
+      "name": "Фурина и Бай Чжу",
       "cat": "character",
       "start": "2023-11-08",
       "end": "2023-11-28",
@@ -1867,10 +1923,11 @@
           "label": "beidou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Chanson of Many Waters"
     },
     {
-      "name": "Twilight Arbiter",
+      "name": "Сино и Камисато Аято",
       "cat": "character",
       "start": "2023-11-28",
       "end": "2023-12-19",
@@ -1902,10 +1959,11 @@
           "label": "kirara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Twilight Arbiter"
     },
     {
-      "name": "In the Name of the Rosula",
+      "name": "Навия и Камисато Аяка",
       "cat": "character",
       "start": "2023-12-20",
       "end": "2024-01-09",
@@ -1937,10 +1995,11 @@
           "label": "rosaria"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "In the Name of the Rosula"
     },
     {
-      "name": "Reign of Serenity",
+      "name": "Райдэн Сёгун и Йоимья",
       "cat": "character",
       "start": "2024-01-09",
       "end": "2024-01-30",
@@ -1972,10 +2031,11 @@
           "label": "chevreuse"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Reign of Serenity"
     },
     {
-      "name": "The Crane Soars Skyward",
+      "name": "Сянь Юн и Нахида",
       "cat": "character",
       "start": "2024-01-31",
       "end": "2024-02-20",
@@ -2007,10 +2067,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Crane Soars Skyward"
     },
     {
-      "name": "Invitation to Mundane Life",
+      "name": "Сяо и Яэ Мико",
       "cat": "character",
       "start": "2024-02-20",
       "end": "2024-03-12",
@@ -2042,10 +2103,11 @@
           "label": "ningguang"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Invitation to Mundane Life"
     },
     {
-      "name": "Of Silken Clouds Woven",
+      "name": "Кири и Аратаки Ито",
       "cat": "character",
       "start": "2024-03-13",
       "end": "2024-04-02",
@@ -2077,10 +2139,11 @@
           "label": "dori"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Of Silken Clouds Woven"
     },
     {
-      "name": "Decree of the Deeps",
+      "name": "Невильвет и Каэдэхара Казаха",
       "cat": "character",
       "start": "2024-04-02",
       "end": "2024-04-23",
@@ -2112,10 +2175,11 @@
           "label": "yanfei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Decree of the Deeps"
     },
     {
-      "name": "The Hearth's Ashen Shadow",
+      "name": "Арлекино и Линей",
       "cat": "character",
       "start": "2024-04-24",
       "end": "2024-05-14",
@@ -2147,10 +2211,11 @@
           "label": "xiangling"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Hearth's Ashen Shadow"
     },
     {
-      "name": "From Ashes Reborn",
+      "name": "Странник и Бай Чжу",
       "cat": "character",
       "start": "2024-05-14",
       "end": "2024-06-04",
@@ -2182,10 +2247,11 @@
           "label": "beidou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "From Ashes Reborn"
     },
     {
-      "name": "Illuminating Lightning",
+      "name": "Клоринда и Альхайтам",
       "cat": "character",
       "start": "2024-06-05",
       "end": "2024-06-25",
@@ -2217,10 +2283,11 @@
           "label": "thoma"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Illuminating Lightning"
     },
     {
-      "name": "Romaritime Meluserenity",
+      "name": "Сигвин и Фурина",
       "cat": "character",
       "start": "2024-06-25",
       "end": "2024-07-16",
@@ -2252,10 +2319,11 @@
           "label": "rosaria"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Romaritime Meluserenity"
     },
     {
-      "name": "In the Name of the Rosula",
+      "name": "Навия и Ни Лоу",
       "cat": "character",
       "start": "2024-07-17",
       "end": "2024-08-06",
@@ -2287,10 +2355,11 @@
           "label": "ningguang"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "In the Name of the Rosula"
     },
     {
-      "name": "Ambrosial Essence",
+      "name": "Эмили и Елань",
       "cat": "character",
       "start": "2024-08-06",
       "end": "2024-08-27",
@@ -2322,10 +2391,11 @@
           "label": "razor"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ambrosial Essence"
     },
     {
-      "name": "Sharktacular Surfari",
+      "name": "Муалани и Каэдэхара Казаха",
       "cat": "character",
       "start": "2024-08-28",
       "end": "2024-09-17",
@@ -2357,10 +2427,11 @@
           "label": "bennett"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sharktacular Surfari"
     },
     {
-      "name": "Seeker of Flame-Wrought Secrets",
+      "name": "Кинич и Райдэн Сёгун",
       "cat": "character",
       "start": "2024-09-17",
       "end": "2024-10-08",
@@ -2392,10 +2463,11 @@
           "label": "chevreuse"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Seeker of Flame-Wrought Secrets"
     },
     {
-      "name": "Forgefire's Blessing",
+      "name": "Силона и Кири",
       "cat": "character",
       "start": "2024-10-09",
       "end": "2024-10-29",
@@ -2427,10 +2499,11 @@
           "label": "collei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Forgefire's Blessing"
     },
     {
-      "name": "The Moongrass' Enlightenment",
+      "name": "Нахида и Ху Тао",
       "cat": "character",
       "start": "2024-10-29",
       "end": "2024-11-19",
@@ -2462,10 +2535,11 @@
           "label": "kuki shinobu"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Moongrass' Enlightenment"
     },
     {
-      "name": "Piercing Shot's Crimson Wake",
+      "name": "Часка и Линей",
       "cat": "character",
       "start": "2024-11-20",
       "end": "2024-12-10",
@@ -2497,10 +2571,11 @@
           "label": "barbara"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Piercing Shot's Crimson Wake"
     },
     {
-      "name": "Decree of the Deeps",
+      "name": "Невильвет и Чжун Ли",
       "cat": "character",
       "start": "2024-12-10",
       "end": "2024-12-31",
@@ -2532,10 +2607,11 @@
           "label": "yaoyao"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Decree of the Deeps"
     },
     {
-      "name": "Ancient Flame Ablaze",
+      "name": "Мавуика и Цитли",
       "cat": "character",
       "start": "2025-01-01",
       "end": "2025-01-21",
@@ -2567,10 +2643,11 @@
           "label": "diona"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ancient Flame Ablaze"
     },
     {
-      "name": "The Hearth's Ashen Shadow",
+      "name": "Арлекино и Клоринда",
       "cat": "character",
       "start": "2025-01-21",
       "end": "2025-02-11",
@@ -2602,10 +2679,11 @@
           "label": "rosaria"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Hearth's Ashen Shadow"
     },
     {
-      "name": "Dawn's Drifting Reverie",
+      "name": "Умэ Цуки и Сигвин",
       "cat": "character",
       "start": "2025-02-12",
       "end": "2025-03-04",
@@ -2637,10 +2715,11 @@
           "label": "xiangling"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Dawn's Drifting Reverie"
     },
     {
-      "name": "Tempestuous Destiny",
+      "name": "Уайотслей и Фурина",
       "cat": "character",
       "start": "2025-03-04",
       "end": "2025-03-25",
@@ -2672,10 +2751,11 @@
           "label": "mika"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Tempestuous Destiny"
     },
     {
-      "name": "Cornucopia of Contention",
+      "name": "Вареса и Сянь Юн",
       "cat": "character",
       "start": "2025-03-26",
       "end": "2025-04-15",
@@ -2707,10 +2787,11 @@
           "label": "gaming"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Cornucopia of Contention"
     },
     {
-      "name": "Forgefire's Blessing",
+      "name": "Силона и Венти",
       "cat": "character",
       "start": "2025-04-15",
       "end": "2025-05-06",
@@ -2742,10 +2823,11 @@
           "label": "yanfei"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Forgefire's Blessing"
     },
     {
-      "name": "La Chanson Cerise",
+      "name": "Эскофье и Навия",
       "cat": "character",
       "start": "2025-05-07",
       "end": "2025-05-27",
@@ -2777,10 +2859,11 @@
           "label": "layla"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "La Chanson Cerise"
     },
     {
-      "name": "Seeker of Flame-Wrought Secrets",
+      "name": "Кинич и Райдэн Сёгун",
       "cat": "character",
       "start": "2025-05-27",
       "end": "2025-06-17",
@@ -2812,10 +2895,11 @@
           "label": "lynette"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Seeker of Flame-Wrought Secrets"
     },
     {
-      "name": "Void Star's Advent",
+      "name": "Скирк и Шэнь Хэ",
       "cat": "character",
       "start": "2025-06-18",
       "end": "2025-07-08",
@@ -2847,10 +2931,11 @@
           "label": "diona"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Void Star's Advent"
     },
     {
-      "name": "Ancient Flame Ablaze",
+      "name": "Мавуика и Эмили",
       "cat": "character",
       "start": "2025-07-08",
       "end": "2025-07-29",
@@ -2882,10 +2967,11 @@
           "label": "xiangling"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ancient Flame Ablaze"
     },
     {
-      "name": "Astral Actuation",
+      "name": "Инэффа и Цитли",
       "cat": "character",
       "start": "2025-07-30",
       "end": "2025-08-19",
@@ -2917,10 +3003,11 @@
           "label": "fischl"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Astral Actuation"
     },
     {
-      "name": "Sharktacular Surfari",
+      "name": "Муалани и Часка",
       "cat": "character",
       "start": "2025-08-19",
       "end": "2025-09-09",
@@ -2952,10 +3039,11 @@
           "label": "bennett"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Sharktacular Surfari"
     },
     {
-      "name": "Moonsong of the Groves",
+      "name": "Лаума и Нахида",
       "cat": "character",
       "start": "2025-09-10",
       "end": "2025-09-30",
@@ -2987,10 +3075,11 @@
           "label": "kaveh"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Moonsong of the Groves"
     },
     {
-      "name": "The Lone Light Knocks at Night",
+      "name": "Флин и Елань",
       "cat": "character",
       "start": "2025-09-30",
       "end": "2025-10-21",
@@ -3022,10 +3111,11 @@
           "label": "dori"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Lone Light Knocks at Night"
     },
     {
-      "name": "Temptation of the Crimson Sands",
+      "name": "Нефер и Фурина",
       "cat": "character",
       "start": "2025-10-22",
       "end": "2025-11-11",
@@ -3057,10 +3147,11 @@
           "label": "yaoyao"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Temptation of the Crimson Sands"
     },
     {
-      "name": "The Hearth's Ashen Shadow",
+      "name": "Арлекино и Чжун Ли",
       "cat": "character",
       "start": "2025-11-11",
       "end": "2025-12-02",
@@ -3092,10 +3183,11 @@
           "label": "yun jin"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Hearth's Ashen Shadow"
     },
     {
-      "name": "Rubedo, of White Stone Born",
+      "name": "Дурин и Венти",
       "cat": "character",
       "start": "2025-12-03",
       "end": "2025-12-23",
@@ -3127,10 +3219,11 @@
           "label": "jahoda"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Rubedo, of White Stone Born"
     },
     {
-      "name": "Cornucopia of Contention",
+      "name": "Вареса и Силона",
       "cat": "character",
       "start": "2025-12-23",
       "end": "2026-01-13",
@@ -3162,10 +3255,11 @@
           "label": "gaming"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Cornucopia of Contention"
     },
     {
-      "name": "Somnias a Luna",
+      "name": "Коломбина и Инэффа",
       "cat": "character",
       "start": "2026-01-14",
       "end": "2026-02-03",
@@ -3197,10 +3291,11 @@
           "label": "ifa"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Somnias a Luna"
     },
     {
-      "name": "Harmonious Abundance",
+      "name": "Цзю Бай и Невильвет",
       "cat": "character",
       "start": "2026-02-03",
       "end": "2026-02-24",
@@ -3232,10 +3327,11 @@
           "label": "gorou"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Harmonious Abundance"
     },
     {
-      "name": "The Northerly Wind's Song of Triumph",
+      "name": "Варка и Флин",
       "cat": "character",
       "start": "2026-02-25",
       "end": "2026-03-17",
@@ -3267,10 +3363,11 @@
           "label": "sucrose"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Northerly Wind's Song of Triumph"
     },
     {
-      "name": "Void Star's Advent",
+      "name": "Скирк и Эскофье",
       "cat": "character",
       "start": "2026-03-17",
       "end": "2026-04-07",
@@ -3302,10 +3399,11 @@
           "label": "charlotte"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Void Star's Advent"
     },
     {
-      "name": "Ya-hoho! Compendium",
+      "name": "Линнея и Часка",
       "cat": "character",
       "start": "2026-04-08",
       "end": "2026-04-28",
@@ -3337,10 +3435,11 @@
           "label": "noelle"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Ya-hoho! Compendium"
     },
     {
-      "name": "Moonsong of the Groves",
+      "name": "Лаума и Нефер",
       "cat": "character",
       "start": "2026-04-28",
       "end": "2026-05-19",
@@ -3372,10 +3471,11 @@
           "label": "jahoda"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Moonsong of the Groves"
     },
     {
-      "name": "Angel's Reverie",
+      "name": "Николь и Дурин",
       "cat": "character",
       "start": "2026-05-20",
       "end": "2026-06-09",
@@ -3407,10 +3507,11 @@
           "label": "razor"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Angel's Reverie"
     },
     {
-      "name": "Frostedge Nocturne",
+      "name": "Лохен и Мавуика",
       "cat": "character",
       "start": "2026-06-09",
       "end": "2026-06-30",
@@ -3442,10 +3543,11 @@
           "label": "bennett"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Frostedge Nocturne"
     },
     {
-      "name": "To the Looking-Glass the Mademoiselle Said",
+      "name": "Сандрон и Цитли",
       "cat": "character",
       "start": "2026-07-01",
       "end": "2026-07-21",
@@ -3477,10 +3579,11 @@
           "label": "freminet"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "To the Looking-Glass the Mademoiselle Said"
     },
     {
-      "name": "Somnias a Luna",
+      "name": "Коломбина и Райдэн Сёгун",
       "cat": "character",
       "start": "2026-07-21",
       "end": "2026-08-11",
@@ -3512,10 +3615,11 @@
           "label": "sethos"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Somnias a Luna"
     },
     {
-      "name": "Swan's Shadow in Silken Ice",
+      "name": "Одетта и Арлекино",
       "cat": "character",
       "start": "2026-08-12",
       "end": "2026-09-01",
@@ -3547,10 +3651,11 @@
           "label": "lynette"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Swan's Shadow in Silken Ice"
     },
     {
-      "name": "The Lone Light Knocks at Night",
+      "name": "Флин и Инэффа",
       "cat": "character",
       "start": "2026-09-01",
       "end": "2026-09-22",
@@ -3582,10 +3687,11 @@
           "label": "lan yan"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "The Lone Light Knocks at Night"
     },
     {
-      "name": "When Warm Winds Cavort",
+      "name": "Весна и Водяница",
       "cat": "character",
       "start": "2026-09-23",
       "end": "2026-10-13",
@@ -3617,10 +3723,11 @@
           "label": "chongyun"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "When Warm Winds Cavort"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Аквила Фавония",
       "cat": "weapon",
       "start": "2020-09-28",
       "end": "2020-10-18",
@@ -3660,10 +3767,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Забытая молитва священным ветрам",
       "cat": "weapon",
       "start": "2020-10-20",
       "end": "2020-11-10",
@@ -3703,10 +3811,11 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Небесная арфа",
       "cat": "weapon",
       "start": "2020-11-11",
       "end": "2020-12-01",
@@ -3746,10 +3855,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Победитель вихря",
       "cat": "weapon",
       "start": "2020-12-01",
       "end": "2020-12-22",
@@ -3789,10 +3899,11 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Формовщик вершин",
       "cat": "weapon",
       "start": "2020-12-23",
       "end": "2021-01-12",
@@ -3832,10 +3943,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Лук Амоса",
       "cat": "weapon",
       "start": "2021-01-12",
       "end": "2021-02-02",
@@ -3875,10 +3987,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Крылатое копьё первозданного нефрита",
       "cat": "weapon",
       "start": "2021-02-03",
       "end": "2021-02-23",
@@ -3918,10 +4031,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Могила волка",
       "cat": "weapon",
       "start": "2021-02-23",
       "end": "2021-03-16",
@@ -3961,10 +4075,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Элегия концу",
       "cat": "weapon",
       "start": "2021-03-17",
       "end": "2021-04-06",
@@ -4004,10 +4119,11 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Небесная арфа",
       "cat": "weapon",
       "start": "2021-04-06",
       "end": "2021-04-27",
@@ -4047,10 +4163,11 @@
           "label": "favonius sword"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Формовщик вершин",
       "cat": "weapon",
       "start": "2021-04-28",
       "end": "2021-05-18",
@@ -4090,10 +4207,11 @@
           "label": "the flute"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Песнь сломанных сосен",
       "cat": "weapon",
       "start": "2021-05-18",
       "end": "2021-06-08",
@@ -4133,10 +4251,11 @@
           "label": "sacrificial sword"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Забытая молитва священным ветрам",
       "cat": "weapon",
       "start": "2021-06-09",
       "end": "2021-06-29",
@@ -4176,10 +4295,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Клинок свободы",
       "cat": "weapon",
       "start": "2021-06-29",
       "end": "2021-07-20",
@@ -4219,10 +4339,11 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Перетопленный рассекающий туман",
       "cat": "weapon",
       "start": "2021-07-21",
       "end": "2021-08-10",
@@ -4262,10 +4383,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Грохочущий импульс",
       "cat": "weapon",
       "start": "2021-08-10",
       "end": "2021-08-31",
@@ -4305,10 +4427,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Пожирающая молния",
       "cat": "weapon",
       "start": "2021-09-01",
       "end": "2021-09-21",
@@ -4348,10 +4471,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Нефритовый клинок первоздания",
       "cat": "weapon",
       "start": "2021-09-21",
       "end": "2021-10-12",
@@ -4391,10 +4515,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Полярная звезда",
       "cat": "weapon",
       "start": "2021-10-13",
       "end": "2021-11-02",
@@ -4434,10 +4559,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Посох Хомы",
       "cat": "weapon",
       "start": "2021-11-02",
       "end": "2021-11-23",
@@ -4477,10 +4603,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Клинок свободы",
       "cat": "weapon",
       "start": "2021-11-24",
       "end": "2021-12-14",
@@ -4520,10 +4647,11 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Рог алого дробителя",
       "cat": "weapon",
       "start": "2021-12-14",
       "end": "2022-01-04",
@@ -4563,10 +4691,11 @@
           "label": "sacrificial fragments"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Усмиритель бед",
       "cat": "weapon",
       "start": "2022-01-05",
       "end": "2022-01-25",
@@ -4606,10 +4735,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Лук Амоса",
       "cat": "weapon",
       "start": "2022-01-25",
       "end": "2022-02-15",
@@ -4649,10 +4779,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Несокрушимость кагура",
       "cat": "weapon",
       "start": "2022-02-16",
       "end": "2022-03-08",
@@ -4692,10 +4823,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Пожирающая молния",
       "cat": "weapon",
       "start": "2022-03-08",
       "end": "2022-03-29",
@@ -4735,10 +4867,11 @@
           "label": "sacrificial fragments"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Харан геппаку футсу",
       "cat": "weapon",
       "start": "2022-03-30",
       "end": "2022-04-19",
@@ -4778,10 +4911,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Перетопленный рассекающий туман",
       "cat": "weapon",
       "start": "2022-04-19",
       "end": "2022-05-31",
@@ -4821,10 +4955,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Водное подобие",
       "cat": "weapon",
       "start": "2022-05-31",
       "end": "2022-06-21",
@@ -4864,10 +4999,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Рог алого дробителя",
       "cat": "weapon",
       "start": "2022-06-21",
       "end": "2022-07-12",
@@ -4907,10 +5043,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Клинок свободы",
       "cat": "weapon",
       "start": "2022-07-13",
       "end": "2022-08-02",
@@ -4950,10 +5087,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Грохочущий импульс",
       "cat": "weapon",
       "start": "2022-08-02",
       "end": "2022-08-23",
@@ -4993,10 +5131,11 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Путь охотника",
       "cat": "weapon",
       "start": "2022-08-24",
       "end": "2022-09-09",
@@ -5036,10 +5175,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Лук Амоса",
       "cat": "weapon",
       "start": "2022-09-09",
       "end": "2022-09-27",
@@ -5079,10 +5219,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Посох багровых песков",
       "cat": "weapon",
       "start": "2022-09-28",
       "end": "2022-10-14",
@@ -5122,10 +5263,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: key of khaj nisut",
       "cat": "weapon",
       "start": "2022-10-14",
       "end": "2022-11-01",
@@ -5165,10 +5307,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: a thousand floating dreams",
       "cat": "weapon",
       "start": "2022-11-02",
       "end": "2022-11-18",
@@ -5208,10 +5351,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Несокрушимость кагура",
       "cat": "weapon",
       "start": "2022-11-18",
       "end": "2022-12-06",
@@ -5251,10 +5395,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Воспоминание Тулайтульи",
       "cat": "weapon",
       "start": "2022-12-07",
       "end": "2022-12-27",
@@ -5294,10 +5439,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Пожирающая молния",
       "cat": "weapon",
       "start": "2022-12-27",
       "end": "2023-01-17",
@@ -5337,10 +5483,11 @@
           "label": "sacrificial fragments"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: light of foliar incision",
       "cat": "weapon",
       "start": "2023-01-18",
       "end": "2023-02-07",
@@ -5380,10 +5527,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Посох Хомы",
       "cat": "weapon",
       "start": "2023-02-07",
       "end": "2023-02-28",
@@ -5423,10 +5571,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Маяк тростниковых морей",
       "cat": "weapon",
       "start": "2023-03-01",
       "end": "2023-03-21",
@@ -5466,10 +5615,11 @@
           "label": "eye of perception"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Усмиритель бед",
       "cat": "weapon",
       "start": "2023-03-21",
       "end": "2023-04-11",
@@ -5509,10 +5659,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: key of khaj nisut",
       "cat": "weapon",
       "start": "2023-04-12",
       "end": "2023-05-02",
@@ -5552,10 +5703,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: jadefalls splendor",
       "cat": "weapon",
       "start": "2023-05-02",
       "end": "2023-05-23",
@@ -5595,10 +5747,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Грохочущий импульс",
       "cat": "weapon",
       "start": "2023-05-24",
       "end": "2023-06-13",
@@ -5638,10 +5791,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Клинок свободы",
       "cat": "weapon",
       "start": "2023-06-13",
       "end": "2023-07-04",
@@ -5681,10 +5835,11 @@
           "label": "favonius codex"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Песнь сломанных сосен",
       "cat": "weapon",
       "start": "2023-07-05",
       "end": "2023-07-25",
@@ -5724,10 +5879,11 @@
           "label": "eye of perception"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Вечное лунное сияние",
       "cat": "weapon",
       "start": "2023-07-25",
       "end": "2023-08-15",
@@ -5767,10 +5923,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Первая великая магия",
       "cat": "weapon",
       "start": "2023-08-16",
       "end": "2023-09-05",
@@ -5810,10 +5967,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Полярная звезда",
       "cat": "weapon",
       "start": "2023-09-05",
       "end": "2023-09-26",
@@ -5853,10 +6011,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: tome of the eternal flow",
       "cat": "weapon",
       "start": "2023-09-27",
       "end": "2023-10-17",
@@ -5896,10 +6055,11 @@
           "label": "favonius codex"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Контроль денежного потока",
       "cat": "weapon",
       "start": "2023-10-17",
       "end": "2023-11-07",
@@ -5939,10 +6099,11 @@
           "label": "eye of perception"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: splendor of tranquil waters",
       "cat": "weapon",
       "start": "2023-11-08",
       "end": "2023-11-28",
@@ -5982,10 +6143,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Посох багровых песков",
       "cat": "weapon",
       "start": "2023-11-28",
       "end": "2023-12-19",
@@ -6025,10 +6187,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Приговор",
       "cat": "weapon",
       "start": "2023-12-20",
       "end": "2024-01-09",
@@ -6068,10 +6231,11 @@
           "label": "favonius codex"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Пожирающая молния",
       "cat": "weapon",
       "start": "2024-01-09",
       "end": "2024-01-30",
@@ -6111,10 +6275,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: cranes echoing call",
       "cat": "weapon",
       "start": "2024-01-31",
       "end": "2024-02-20",
@@ -6154,10 +6319,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Крылатое копьё первозданного нефрита",
       "cat": "weapon",
       "start": "2024-02-20",
       "end": "2024-03-12",
@@ -6197,10 +6363,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Уракуми-сугири",
       "cat": "weapon",
       "start": "2024-03-13",
       "end": "2024-04-02",
@@ -6240,10 +6407,11 @@
           "label": "favonius codex"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: tome of the eternal flow",
       "cat": "weapon",
       "start": "2024-04-02",
       "end": "2024-04-23",
@@ -6283,10 +6451,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: crimson moons semblance",
       "cat": "weapon",
       "start": "2024-04-24",
       "end": "2024-05-14",
@@ -6326,10 +6495,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Воспоминание Тулайтульи",
       "cat": "weapon",
       "start": "2024-05-14",
       "end": "2024-06-04",
@@ -6369,10 +6539,11 @@
           "label": "sacrificial fragments"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Искупление",
       "cat": "weapon",
       "start": "2024-06-05",
       "end": "2024-06-25",
@@ -6412,10 +6583,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Сердечные струны серебряного ливня",
       "cat": "weapon",
       "start": "2024-06-25",
       "end": "2024-07-16",
@@ -6455,10 +6627,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Приговор",
       "cat": "weapon",
       "start": "2024-07-17",
       "end": "2024-08-06",
@@ -6498,10 +6671,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: lumidouce elegy",
       "cat": "weapon",
       "start": "2024-08-06",
       "end": "2024-08-27",
@@ -6541,10 +6715,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Сёрф-ап",
       "cat": "weapon",
       "start": "2024-08-28",
       "end": "2024-09-17",
@@ -6584,10 +6759,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Клык горного короля",
       "cat": "weapon",
       "start": "2024-09-17",
       "end": "2024-10-08",
@@ -6627,10 +6803,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: peak patrol song",
       "cat": "weapon",
       "start": "2024-10-09",
       "end": "2024-10-29",
@@ -6670,10 +6847,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: a thousand floating dreams",
       "cat": "weapon",
       "start": "2024-10-29",
       "end": "2024-11-19",
@@ -6713,10 +6891,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: astral vultures crimson plumage",
       "cat": "weapon",
       "start": "2024-11-20",
       "end": "2024-12-10",
@@ -6756,10 +6935,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: tome of the eternal flow",
       "cat": "weapon",
       "start": "2024-12-10",
       "end": "2024-12-31",
@@ -6799,10 +6979,11 @@
           "label": "sacrificial fragments"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: a thousand blazing suns",
       "cat": "weapon",
       "start": "2025-01-01",
       "end": "2025-01-21",
@@ -6842,10 +7023,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: crimson moons semblance",
       "cat": "weapon",
       "start": "2025-01-21",
       "end": "2025-02-11",
@@ -6885,10 +7067,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: sunny morning sleep in",
       "cat": "weapon",
       "start": "2025-02-12",
       "end": "2025-03-04",
@@ -6928,10 +7111,11 @@
           "label": "eye of perception"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: splendor of tranquil waters",
       "cat": "weapon",
       "start": "2025-03-04",
       "end": "2025-03-25",
@@ -6971,10 +7155,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: vivid notions",
       "cat": "weapon",
       "start": "2025-03-26",
       "end": "2025-04-15",
@@ -7014,10 +7199,11 @@
           "label": "flower wreathed feathers"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: peak patrol song",
       "cat": "weapon",
       "start": "2025-04-15",
       "end": "2025-05-06",
@@ -7057,10 +7243,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: symphonist of scents",
       "cat": "weapon",
       "start": "2025-05-07",
       "end": "2025-05-27",
@@ -7100,10 +7287,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Клык горного короля",
       "cat": "weapon",
       "start": "2025-05-27",
       "end": "2025-06-17",
@@ -7143,10 +7331,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: azurelight",
       "cat": "weapon",
       "start": "2025-06-18",
       "end": "2025-07-08",
@@ -7186,10 +7375,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: a thousand blazing suns",
       "cat": "weapon",
       "start": "2025-07-08",
       "end": "2025-07-29",
@@ -7229,10 +7419,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: fractured halo",
       "cat": "weapon",
       "start": "2025-07-30",
       "end": "2025-08-19",
@@ -7272,10 +7463,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Сёрф-ап",
       "cat": "weapon",
       "start": "2025-08-19",
       "end": "2025-09-09",
@@ -7315,10 +7507,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: nightweavers looking glass",
       "cat": "weapon",
       "start": "2025-09-10",
       "end": "2025-09-30",
@@ -7358,10 +7551,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: bloodsoaked ruins",
       "cat": "weapon",
       "start": "2025-09-30",
       "end": "2025-10-21",
@@ -7401,10 +7595,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: reliquary of truth",
       "cat": "weapon",
       "start": "2025-10-22",
       "end": "2025-11-11",
@@ -7444,10 +7639,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: crimson moons semblance",
       "cat": "weapon",
       "start": "2025-11-11",
       "end": "2025-12-02",
@@ -7487,10 +7683,11 @@
           "label": "sacrificial fragments"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: athame artis",
       "cat": "weapon",
       "start": "2025-12-03",
       "end": "2025-12-23",
@@ -7530,10 +7727,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: vivid notions",
       "cat": "weapon",
       "start": "2025-12-23",
       "end": "2026-01-13",
@@ -7573,10 +7771,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: nocturnes curtain call",
       "cat": "weapon",
       "start": "2026-01-14",
       "end": "2026-02-03",
@@ -7616,10 +7815,11 @@
           "label": "sacrificial greatsword"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: lightbearing moonshard",
       "cat": "weapon",
       "start": "2026-02-03",
       "end": "2026-02-24",
@@ -7659,10 +7859,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: gest of the mighty wolf",
       "cat": "weapon",
       "start": "2026-02-25",
       "end": "2026-03-17",
@@ -7702,10 +7903,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: azurelight",
       "cat": "weapon",
       "start": "2026-03-17",
       "end": "2026-04-07",
@@ -7745,10 +7947,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: golden frostbound oath",
       "cat": "weapon",
       "start": "2026-04-08",
       "end": "2026-04-28",
@@ -7788,10 +7991,11 @@
           "label": "eye of perception"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: nightweavers looking glass",
       "cat": "weapon",
       "start": "2026-04-28",
       "end": "2026-05-19",
@@ -7831,10 +8035,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: angelos heptades",
       "cat": "weapon",
       "start": "2026-05-20",
       "end": "2026-06-09",
@@ -7874,10 +8079,11 @@
           "label": "the widsith"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: disaster and remorse",
       "cat": "weapon",
       "start": "2026-06-09",
       "end": "2026-06-30",
@@ -7917,10 +8123,11 @@
           "label": "favonius lance"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: a teaspoon of transcendence",
       "cat": "weapon",
       "start": "2026-07-01",
       "end": "2026-07-21",
@@ -7960,10 +8167,11 @@
           "label": "sacrificial bow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: nocturnes curtain call",
       "cat": "weapon",
       "start": "2026-07-21",
       "end": "2026-08-11",
@@ -8003,10 +8211,11 @@
           "label": "favonius warbow"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Морозное перо Белого озера",
       "cat": "weapon",
       "start": "2026-08-12",
       "end": "2026-09-01",
@@ -8046,10 +8255,11 @@
           "label": "rust"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: bloodsoaked ruins",
       "cat": "weapon",
       "start": "2026-09-01",
       "end": "2026-09-22",
@@ -8089,10 +8299,11 @@
           "label": "the stringless"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     },
     {
-      "name": "Epitome Invocation",
+      "name": "Оружие: beyond the chrysalis",
       "cat": "weapon",
       "start": "2026-09-23",
       "end": "2026-10-13",
@@ -8132,7 +8343,8 @@
           "label": "dragons bane"
         }
       ],
-      "standard": false
+      "standard": false,
+      "nameEn": "Epitome Invocation"
     }
   ],
   "standard": {
