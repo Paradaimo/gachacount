@@ -4,7 +4,7 @@
 
 ## Установка
 
-1. Скачайте APK: [GachaCount-v0.1.11.apk](https://raw.githubusercontent.com/Paradaimo/gachacount/main/app/GachaCount-v0.1.11.apk)
+1. Скачайте APK: [GachaCount-v0.1.12.apk](https://raw.githubusercontent.com/Paradaimo/gachacount/main/app/GachaCount-v0.1.12.apk)
 2. Откройте файл на телефоне → разрешите «Установку из неизвестных источников» для вашего браузера/менеджера файлов.
 3. Готово. Иконка «GachaCount».
 
