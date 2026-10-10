@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GachaCount — инструкция для новичка</title>
+<style>
+  :root{
+    --bg:#0e1116; --card:#151a22; --card2:#1a2230; --border:#232b38;
+    --accent:#6aa6ff; --accent2:#3b82f6; --text:#e8edf4; --muted:#8b96a8;
+    --gold:#ffc757; --green:#4ade80; --red:#f87171;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size:16px; line-height:1.55;
+  }
+  .wrap{max-width:720px; margin:0 auto; padding:16px 16px 80px}
+  header{padding:24px 0 8px}
+  h1{font-size:26px; margin:0 0 6px}
+  h1 .star{color:var(--gold)}
+  .sub{color:var(--muted); font-size:14px; margin:0 0 16px}
+  h2{font-size:20px; margin:36px 0 12px; padding-top:8px}
+  h2 .num{
+    display:inline-flex; align-items:center; justify-content:center;
+    width:30px; height:30px; border-radius:8px; background:var(--card2);
+    color:var(--gold); font-size:16px; margin-right:10px; border:1px solid var(--border);
+    vertical-align:-6px;
+  }
+  h3{font-size:16px; margin:20px 0 8px; color:var(--accent)}
+  p{margin:10px 0}
+  .card{
+    background:var(--card); border:1px solid var(--border);
+    border-radius:12px; padding:14px 16px; margin:12px 0;
+  }
+  .toc{display:flex; flex-wrap:wrap; gap:8px; margin:16px 0 0}
+  .toc a{
+    display:inline-block; background:var(--card2); color:var(--text);
+    border:1px solid var(--border); border-radius:20px;
+    padding:6px 12px; font-size:13px; text-decoration:none;
+  }
+  .toc a:active{background:var(--card)}
+  .btn{
+    display:inline-block; background:var(--gold); color:#0b1020;
+    font-weight:700; border-radius:8px; padding:2px 10px; font-size:14px;
+    white-space:nowrap;
+  }
+  .btn.ghost{background:var(--card2); color:var(--text); border:1px solid var(--border); font-weight:400}
+  .btn.accent{background:var(--accent2); color:#fff}
+  .note,.warn,.ok,.danger{
+    border-radius:10px; padding:12px 14px; margin:12px 0; font-size:14.5px;
+  }
+  .note{background:var(--card2); border:1px solid var(--border)}
+  .warn{background:#2a2410; border:1px solid #5a4a14; color:#ffe9a8}
+  .ok{background:#12261a; border:1px solid #1e4a2e; color:#b9f3cd}
+  .danger{background:#2a1515; border:1px solid #5a2424; color:#ffc9c9}
+  .note b,.warn b,.ok b,.danger b{color:inherit}
+  .lbl{color:var(--gold); font-weight:700}
+  .lbl2{color:var(--accent); font-weight:700}
+  code,pre{
+    font-family:ui-monospace,SFMono-Regular,Consolas,"Courier New",monospace;
+    font-size:13.5px;
+  }
+  code{background:var(--card2); border:1px solid var(--border); border-radius:6px; padding:1px 6px; word-break:break-all}
+  pre{
+    background:#0a0d12; border:1px solid var(--border); border-radius:10px;
+    padding:12px 14px; overflow-x:auto; white-space:pre-wrap; word-break:break-all;
+  }
+  ol.steps{counter-reset:step; list-style:none; padding:0; margin:12px 0}
+  ol.steps>li{
+    position:relative; padding:0 0 14px 46px;
+  }
+  ol.steps>li::before{
+    counter-increment:step; content:counter(step);
+    position:absolute; left:0; top:0;
+    width:32px; height:32px; border-radius:50%;
+    background:var(--card2); border:1px solid var(--border);
+    color:var(--gold); font-weight:700; font-size:15px;
+    display:flex; align-items:center; justify-content:center;
+  }
+  ol.steps>li:not(:last-child)::after{
+    content:""; position:absolute; left:15px; top:34px; bottom:2px;
+    width:2px; background:var(--border);
+  }
+  .screen{
+    background:#0a0d12; border:1px solid var(--border); border-radius:12px;
+    padding:14px; margin:12px 0; font-size:13.5px;
+  }
+  .screen .row{display:flex; justify-content:space-between; gap:12px; padding:4px 0}
+  .screen .row .v{color:var(--gold); font-weight:700; font-size:15px}
+  .screen .info{color:var(--muted); font-size:12px; border-top:1px solid var(--border); margin-top:6px; padding-top:6px}
+  .screen .ttl{color:var(--muted); font-size:12px; letter-spacing:.06em; text-transform:uppercase; margin-bottom:6px}
+  .term{display:grid; grid-template-columns:120px 1fr; gap:6px 12px; font-size:14.5px}
+  .term dt{color:var(--gold); font-weight:700}
+  .term dd{margin:0}
+  a{color:var(--accent)}
+  footer{margin-top:48px; color:var(--muted); font-size:13px; border-top:1px solid var(--border); padding-top:16px}
+  .small{font-size:13.5px; color:var(--muted)}
+  .hl{color:var(--gold); font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>GachaCount <span class="star">★</span></h1>
+  <p class="sub">Инструкция для тех, кто никогда этим не пользовался. Всё по шагам, без «и так понятно».</p>
+  <div class="toc">
+    <a href="#what">Что это</a>
+    <a href="#step1">1. Установка</a>
+    <a href="#step2">2. Вход</a>
+    <a href="#step3">3. Первый запуск</a>
+    <a href="#step4">4. Полная история</a>
+    <a href="#screens">Экраны</a>
+    <a href="#daily">Повседневность</a>
+    <a href="#faq">Если что-то сломалось</a>
+    <a href="#privacy">Про безопасность</a>
+  </div>
+</header>
+
+<section id="what">
+<h2><span class="num">?</span>Что это за приложение и зачем оно</h2>
+<p><b>GachaCount</b> — маленькая программа на Android для Genshin Impact. Она показывает три вещи:</p>
+<div class="card">
+  <p>1. <b class="hl">Сколько круток до гарантированного 5★</b> — отдельно для каждого из трёх типов баннеров. Это называется <i>pity</i> (жадность).</p>
+  <p>2. <b class="hl">Двойной ли следующий 5★</b> — то есть «монетка» (50/50) или гарантированный персонаж с баннера.</p>
+  <p>3. <b class="hl">Всю историю твоих 4★ и 5★</b> — кто выпал, на каком баннере, когда.</p>
+</div>
+<p>Приложение <b>не даёт крутить</b>. Крутить ты будешь в игре как обычно, а здесь просто смотришь цифры и решаешь: крутить дальше или копить.</p>
+
+<h3>Короткий словарь (чтобы дальше не теряться)</h3>
+<dl class="term">
+  <dt>Баннер</dt><dd>экран круток в игре. Бывает трёх видов: <b>стандартный</b> («Зов скитальца»), <b>ивентный</b> (персонажи текущего обновления, они же «лимитные») и <b>оружие</b>.</dd>
+  <dt>5★ / 4★</dt><dd>редкость выпавшей вещи. Пять звёзд — это топ, четыре — средняя.</dd>
+  <dt>Pity (жадность)</dt><dd>гарант: если 5★ не выпадает, то на <b>90-й</b> крутке у персонажей и <b>80-й</b> у оружия он выпадет обязательно, сколько бы ты ни прокрывал.</dd>
+  <dt>50/50</dt><dd>когда на ивентном баннере выпал 5★, это <b>монетка</b>: 50% — персонаж с баннера (лимитный), 50% — обычный персонаж из стандартного пула. Если выпал обычный — 50/50 «проигран», и <b>следующий</b> 5★ на ивентном баннере будет лимитным <b>обязательно</b>.</dd>
+  <dt>UID</dt><dd>номер твоего игрового аккаунта (9 цифр). Приложение спрашивает его, чтобы знать, чью историю загружать.</dd>
+</dl>
+</section>
+
+<section id="step1">
+<h2><span class="num">1</span>Устанавливаем приложение</h2>
+<ol class="steps">
+  <li>Открой на телефоне эту ссылку (или перешли её себе в мессенджер):
+    <pre>https://raw.githubusercontent.com/Paradaimo/gachacount/main/app/GachaCount-v1.2.apk</pre>
+    Начнётся скачивание файла <code>GachaCount-v1.2.apk</code>.
+  </li>
+  <li>Когда скачается — открой файл (обычно в «Загрузках» или в уведомлении о завершении загрузки).</li>
+  <li>Android спросит: <b>«Разрешить установку приложений из этого источника?»</b> — нажми <span class="btn ghost">Разрешить</span>. (Приложения не из Play Маркета устанавливаются так.)</li>
+  <li>Нажми <span class="btn">Установить</span>. Готово, иконка появится на рабочем столе.</li>
+</ol>
+<div class="note">При обновлении приложения потом делай то же самое: скачал новый файл — установил поверх старого. Вход и история <b>не сотрутся</b>.</div>
+</section>
+
+<section id="step2">
+<h2><span class="num">2</span>Входим в аккаунт (один раз)</h2>
+<p>Открой приложение. Внизу главный экран покажет строку: <span class="btn ghost">Не в системе — нажмите, чтобы войти</span>. Нажми на неё. Откроется экран <b>«Вход в HoYoLAB»</b> со встроенной страницей сайта.</p>
+
+<h3>Способ А — простой (прямо в приложении)</h3>
+<ol class="steps">
+  <li>На открывшейся странице войди в свой аккаунт HoYoLAB: нажми <b>«Войти» (Log In)</b> — обычно он в правом верхнем углу, или на карточке Genshin Impact.</li>
+  <li>Введи <b>почту и пароль</b> от HoYoLAB (те же, что используются для игры).</li>
+  <li>Когда внизу появится надпись <span class="lbl2">«Сессия найдена — нажмите „Я вошёл“»</span> — нажми кнопку <span class="btn">Я вошёл</span>.</li>
+  <li>Приложение само найдёт твой игровой аккаунт и вернёт тебя на главный экран. Строка внизу станет: <span class="btn ghost">Аккаунт … • Genshin: 1xxxxxxxx • (нажмите, чтобы сменить)</span></li>
+</ol>
+
+<h3>Способ Б — если страница в приложении не открывается</h3>
+<p>Бывает, что страница HoYoLAB внутри приложения грузится бесконечно или обрывается (особенно на мобильном интернете). Тогда входим «через компьютер»:</p>
+<ol class="steps">
+  <li><b>На компьютере:</b> открой в браузере (Chrome/Edge) адрес <code>https://www.hoyolab.com</code> и войди туда почтой и паролем.</li>
+  <li>Нажми <code>F12</code> (откроются инструменты разработчика) → вкладка <b>Network</b> (Сеть).</li>
+  <li>Обнови страницу (<code>F5</code>), нажми на любой запрос в списке (лучше тот, что идёт на <code>hoyolab.com</code> или <code>hoyoverse.com</code>).</li>
+  <li>Справа в разделе <b>Request Headers</b> (Заголовки запроса) найди строку, начинающуюся с <code>Cookie:</code>. Это очень длинная строка вида <code>name1=value1; name2=value2; …</code>. Выдели всё, что после «Cookie:», и <b>скопируй</b>.</li>
+  <li><b>На телефоне:</b> на экране входа нажми <span class="btn ghost">Вставить cookie</span> — появится поле. Вставь туда скопированную строку.</li>
+  <li>В поле <b>«UID Genshin»</b> впиши свой UID (см. ниже, как его узнать). Если ты уже когда-то входил способом А — UID подставится сам.</li>
+  <li>Нажми <span class="btn">Сохранить</span>.</li>
+</ol>
+
+<h3>Где взять свой UID (номер аккаунта)</h3>
+<div class="card">
+  <p>В игре: нажми на <b>свой аватар</b> (слева вверху) → <b>«Информация о пользователе»</b>. UID — это 9-значный номер. Первая цифра говорит о регионе: <b>1</b> — Азия, <b>2</b> — Америка, <b>5</b> — Европа, <b>6</b> — Азия (китайская версия).</p>
+</div>
+
+<div class="warn"><b>«Слишком много попыток» / вход заблокирован.</b> HoYoLAB блокирует вход на время, если попыток было много. Через приложение войти не получится — либо подожди (обычно до суток), либо используй способ Б с компьютера.</div>
+</section>
+
+<section id="step3">
+<h2><span class="num">3</span>Первый запуск: «Обновить счётчики»</h2>
+<p>Теперь на главном экране нажми большую кнопку <span class="btn">Обновить счётчики</span>.</p>
+<ol class="steps">
+  <li>Приложение скачает твои свежие крутки со серверов HoYoverse (это займёт несколько секунд).</li>
+  <li>Внизу появится: <span class="lbl2">«Обновлено. Вылетов: N (чч:мм)»</span>.</li>
+  <li>Счётчики в карточке «Мои счётчики» наполнятся числами.</li>
+</ol>
+<div class="note"><b>Важно понимать:</b> кнопка обновляет только <b>крутки за последние ~2 дня</b> — сервер так отдаёт историю по HoYoLAB. Поэтому для полностью точных цифр (особенно для 50/50) нужен одноразовый шаг 4 — импорт полной истории. Без него приложение тоже работает, просто счётчики «запомнят» крутки с момента первого обновления.</div>
+</section>
+
+<section id="step4">
+<h2><span class="num">4</span>Импорт полной истории (рекомендуется, один раз)</h2>
+<p>После этого шага приложение узнает <b>все</b> твои прошлые 4★/5★ — и счётчики, 50/50 и статистика станут полностью точными. Это делается <b>один раз</b>, а дальше — никогда.</p>
+<p>Что нужно: <b>компьютер, на котором установлена Genshin Impact</b>, и заходить в игру на том же аккаунте.</p>
+<ol class="steps">
+  <li><b>В игре</b> открой историю круток: <b>Желания → Записи</b>. Прокрути, подгладь — и просто посмотри пару экранов. (В этот момент игра сохраняет «одноразовый пропуск» к своей истории в локальные файлы.)</li>
+  <li><b>Полностью закрой игру</b> и лаунчер.</li>
+  <li>Скачай маленький скрипт:
+    <pre>https://raw.githubusercontent.com/Paradaimo/gachacount/main/tools/gachacount-link.ps1</pre>
+    Положи файл в любую папку (например, «Загрузки»).
+  </li>
+  <li>Открой терминал в этой папке: в проводнике Windows в адресную строку папки впиши <code>powershell</code> и нажми Enter. Выполни команду:
+    <pre>powershell -ExecutionPolicy Bypass -File .\gachacount-link.ps1</pre>
+  </li>
+  <li>Скрипт найдёт ссылку и <b>скопирует её в буфер обмена</b> — увидишь зелёную надпись «Link copied to the clipboard».</li>
+  <li><b>На телефоне:</b> открой приложение → экран входа (строка «Аккаунт … (нажмите, чтобы сменить)» внизу) → нажми <span class="btn ghost">Импорт полной истории (по ссылке из игры)</span> → вставь ссылку (должна начинаться с <code>https://…?authkey=…</code>) → нажми <span class="btn">Импортировать полную историю</span>.</li>
+  <li>Подожди пару минут. Готово будет, когда появится: <span class="lbl2">«Готово: скачано N, всего в истории M»</span>. Сверху всплывёт окошко с техническими деталями — его можно просто закрыть.</li>
+  <li>Вернись на главный экран — счётчики пересчитаются автоматически.</li>
+</ol>
+<div class="warn"><b>Ссылка живёт пару часов.</b> Сгенерировал — сразу вставляй в приложение. Если срок истёк — повтори шаги 1–5 (снова открыл «Записи» в игре, закрыл игру, запустил скрипт).</div>
+<div class="note">Если под рукой нет компьютера с игрой — <b>пропусти этот шаг</b>, ничего страшного. Приложение будет работать, но состояние 50/50 может отображаться неточно, пока в «видимой» истории (последние ~2 дня) не появится новый 5★.</div>
+</section>
+
+<section id="screens">
+<h2><span class="num">5</span>Что где на экране и что это значит</h2>
+
+<h3>Карточка «Мои счётчики»</h3>
+<div class="screen">
+  <div class="ttl">Мои счётчики — Genshin Impact</div>
+  <div class="row"><span>Стандарт (персонажи)</span><span class="v">41/90</span></div>
+  <div class="info">5★: Дилюк (Зов скитальца)</div>
+  <div class="row"><span>Лимит (ивент)</span><span class="v">12/90</span></div>
+  <div class="info">Впереди 50/50 · 5★: Фурина (Баннер)</div>
+  <div class="row"><span>Оружие</span><span class="v">3/80</span></div>
+  <div class="info">Впереди 50/50 · 5★: Лук Амоса</div>
+</div>
+<ul>
+  <li><b>Стандарт (персонажи) — N/90.</b> Сколько круток ты уже сделал на «Зове скитальца» после последнего 5★. Дойдёт до 90 — 5★ гарантирован (но это всегда будет обычный персонаж, не с баннера).</li>
+  <li><b>Лимит (ивент) — N/90.</b> То же самое, но для баннеров текущих обновлений. Считается <b>отдельно</b> от стандарта, ровно как в игре.</li>
+  <li><b>Оружие — N/80.</b> Счётчик оружейных баннеров, гарант на 80-й крутке.</li>
+  <li>Под каждой строкой мелким шрифтом — <b>последний 5★</b>, который выпал на этом типе баннеров.</li>
+</ul>
+
+<h3>Строка про 50/50 (под «Лимит (ивент)» и «Оружие»)</h3>
+<ul>
+  <li><span class="lbl2">«Впереди 50/50»</span> — следующий 5★ на этом баннере — монетка: 50% лимитный, 50% обычный. (У оружия: 50% оружие с баннера, 50% обычное.)</li>
+  <li><span class="lbl">«След. 5★ точно лимитный»</span> — прошлый 50/50 был проигран (выпал обычный), поэтому следующий 5★ на этом баннере <b>обязательно</b> будет с баннера. Крутить в таком состоянии безопасно.</li>
+</ul>
+<div class="note">50/50 работает <b>внутри своего типа баннеров</b>: проигранный 50/50 на ивенте персонажей гарантирует лимитника на <b>следующем</b> ивенте персонажей. На стандартный баннер это не влияет — из стандарта лимитные персонажи вообще не выпадают.</div>
+
+<h3>«Активные и следующие баннеры»</h3>
+<p>Список: кто сейчас крутится, кто идёт следующим, сколько дней осталось. Данные подгружаются из интернета — нужен доступ в сеть.</p>
+
+<h3>Кнопка «История»</h3>
+<p>Открывает экран со всеми твоими 4★ и 5★. Сверху — статистика <b>по каждому баннеру отдельно</b>:</p>
+<div class="screen">
+  <div class="row" style="display:block">Стандарт — круток: 12, 5★: 0<br>
+  Ивент — круток: 40, 5★: 1, лимитных: 1<br>
+  Оружие — круток: 3, 5★: 0<br>
+  Всего — круток: 55, 5★: 1, 4★: 6</div>
+</div>
+<p>Ниже — список вылетов: кто, с какого баннера, когда.</p>
+
+<h3>«Диагностика и сервисные функции»</h3>
+<p>Сервисные кнопки для отладки. <b>Их не нужно нажимать</b>, если кто-то не попросит это сделать явно. Исключение — <span class="btn ghost">Ввести pity вручную</span> (см. ниже).</p>
+
+<h3>«Ввести pity вручную» (в «Диагностике»)</h3>
+<p>Страховка на случай, если история вдруг не загрузилась. Ты сам вписываешь цифры из игры (Желания → Записи: сколько круток после последнего 5★), и приложение продолжает считать от этой точки. В нормальном режиме <b>не нужен</b>.</p>
+</section>
+
+<section id="daily">
+<h2><span class="num">6</span>Повседневная жизнь с приложением</h2>
+<ol class="steps">
+  <li>Покрутил в игре.</li>
+  <li>Открыл GachaCount → <span class="btn">Обновить счётчики</span>.</li>
+  <li>Посмотрел: сколько до гаранта, 50/50 или точно лимитный.</li>
+  <li>Решил: докрутить / стоп / копить. Всё.</li>
+</ol>
+<p>Ничего больше нажимать не нужно. Счётчики не «сбегают» и не требуют обслуживания.</p>
+</section>
+
+<section id="faq">
+<h2><span class="num">!</span>Если что-то сломалось</h2>
+<div class="card">
+  <p><b>«Нет доступа к интернету» (всплывающее окно).</b> Android ограничил приложению сеть. Нажми <span class="btn ghost">Настройки приложения</span> в этом окне — наверху страницы настроек включи «Использование данных» (разрешить доступ к интернету). Перезапусти приложение.</p>
+</div>
+<div class="card">
+  <p><b>Страница HoYoLAB в приложении не открывается</b> («Страница не открылась», вечная загрузка) — обычно так бывает на мобильном интернете. Ничего страшного: войди <b>способом Б</b> (cookie из браузера на компьютере). Обновление счётчиков при этом работает — оно ходит на другие серверы.</p>
+</div>
+<div class="card">
+  <p><b>«Слишком много попыток» при входе.</b> HoYoLAB временно закрыл вход после множества попыток. Варианты: подождать (до 24 часов) или войти способом Б с компьютера, из привычной сети.</p>
+</div>
+<div class="card">
+  <p><b>Счётчики стоят 0 или «История не загружена».</b> Нажми <span class="btn">Обновить счётчики</span>. Если ошибка — см. следующие пункты.</p>
+</div>
+<div class="card">
+  <p><b>«Обновить счётчики» выдаёт ошибку</b> (особенно если раньше работало). Скорее всего, <b>протух cookie</b> — они живут несколько недель. Просто войди заново (шаг 2, любым способом) и обнови ещё раз. UID повторять не обязательно, если уже сохранён.</p>
+</div>
+<div class="card">
+  <p><b>Приложение просит UID</b>, а ты его не знаешь. В игре: аватар → «Информация о пользователе» → 9 цифр.</p>
+</div>
+<div class="card">
+  <p><b>Как обновить приложение?</b> Скачай новый <code>.apk</code> (ссылку даст разработчик) и установи поверх старого. Вход, история и счётчики сохранятся.</p>
+</div>
+<div class="card">
+  <p><b>Сбросить всё и начать заново</b> (сменил аккаунт, например): Настройки Android → Приложения → GachaCount → <b>«Стереть данные»</b>. После этого войди заново (шаги 2–4).</p>
+</div>
+</section>
+
+<section id="privacy">
+<h2><span class="num">$</span>Про безопасность — коротко</h2>
+<ul>
+  <li>В приложении хранится только <b>cookie</b> (пропуск от HoYoLAB) и история круток. Всё это хранится <b>только на твоём телефоне</b>, в данных приложения.</li>
+  <li>Приложение не отправляет пароль и cookie никому третьему: все запросы идут напрямую на официальные серверы HoYoverse, чтобы прочитать список твоих круток. Больше оно ничего не умеет и не запрашивает.</li>
+  <li>Строку cookie <b>никому не показывай и не пересылай</b> — она позволяет читать историю аккаунта.</li>
+  <li>Компьютерный скрипт из шага 4 читает только локальные файлы игры на твоём ПК и делает один тестовый запрос на официальный сервер. Пароли и cookie он никуда не отправляет.</li>
+</ul>
+</section>
+
+<footer>
+  GachaCount v1.2 · Если что-то в этой инструкции расходится с реальностью приложения или что-то сломалось — напиши разработчику, приложи скриншот экрана приложения.
+</footer>
+
+</div>
+</body>
+</html>
